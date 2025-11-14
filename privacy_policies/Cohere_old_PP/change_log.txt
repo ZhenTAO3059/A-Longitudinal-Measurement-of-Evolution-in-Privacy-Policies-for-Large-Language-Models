@@ -1,0 +1,4 @@
+Found 2 unique policy version(s).
+
+Timestamp 20210530222620 => Privacy Policy | CohereAPIResponsibilityAboutCOHERE PRIVACY POLICYLast Update: April 2021Cohere Inc
+Timestamp 20220410015028 => Privacy Policy | CohereProductsProductsWriteClassifyResponsibilityDocsAboutPricingGet StartedCOHERE PRIVACY POLICYLast Update: March 7, 2022Cohere Inc
