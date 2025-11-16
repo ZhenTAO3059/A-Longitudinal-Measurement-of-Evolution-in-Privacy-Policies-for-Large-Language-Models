@@ -1,6 +1,6 @@
 Found 4 unique policy version(s).
 
-Timestamp 20231208073102 => Updated Date: November 29, 2023Effective Date: November 29, 2023
-Timestamp 20240323213732 => DeepSeek Privacy Policy Last Update:  March 6, 2024 Welcome to DeepSeek
-Timestamp 20240520220020 => DeepSeek Privacy Policy Last Update:  May 15, 2024 Welcome to DeepSeek
-Timestamp 20241212153808 => DeepSeek Privacy Policy Last Update:  December 05, 2024 Welcome to DeepSeek
+Timestamp 20231208073102 => Updated Date: November 29, 2023 Effective Date: November 29, 2023
+Timestamp 20240323213732 => Last Update:  March 6, 2024 
+Timestamp 20240520220020 => Last Update:  May 15, 2024
+Timestamp 20241212153808 => Last Update:  December 05, 2024

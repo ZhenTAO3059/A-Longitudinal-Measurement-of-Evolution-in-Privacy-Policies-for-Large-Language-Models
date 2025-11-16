@@ -1,5 +1,5 @@
 Found 3 unique policy version(s).
 
-Timestamp 20230831064546 => Privacy Policy | CohereProductsFor DevelopersFor BusinessPricingBlogCompanyTry nowCohere Privacy PolicyLast Update: Aug 4, 2023Cohere Inc
-Timestamp 20240520230016 => Learn MoreProductsFor BusinessDevelopersResearchCompanyTry nowCohere Privacy PolicyLast Update: May 7, 2024Cohere Inc
-Timestamp 20241001134022 => Privacy PolicyProductsFor BusinessDevelopersResearchCompanyTry nowCohere Privacy PolicyLast Update: Sept 18, 2024Cohere Inc
+Timestamp 20230831064546 => Last Update: Aug 4, 2023
+Timestamp 20240520230016 => Last Update: May 7, 2024
+Timestamp 20241001134022 => Last Update: Sept 18, 2024
