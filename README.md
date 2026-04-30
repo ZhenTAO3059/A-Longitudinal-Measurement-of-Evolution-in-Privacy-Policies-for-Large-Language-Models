@@ -13,4 +13,5 @@ This repository is for the project **Evolution in Privacy Policies for LLMs**.
 - `privacy_policies/`: Historical versions of privacy policies for LLMs in HTML format.
 - `sentence_diffs/`: Annotation of sentence-level edits between consecutive policy versions.
 - `supplemental_documents/`: Supplemental documents for LLMs.
-- `taxonomy_table/`: A privacy policy taxonomy tailored to LLMs and the annotation of policy content.
+- `text_overlap/`: Policy text overlap patterns.
+- `taxonomy_table.xlsx`: A privacy policy taxonomy tailored to LLMs and the annotation of policy content.
