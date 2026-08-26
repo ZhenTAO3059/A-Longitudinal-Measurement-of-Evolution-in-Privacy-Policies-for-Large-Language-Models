@@ -1,0 +1,51 @@
+At Anthropic, we're committed to protecting your privacy and securing your data. Here's how we keep your information safe:
+Your Data Protection
+Your Data Protection
+Encryption : Your data is automatically encrypted both while in transit, and stored (at rest).
+Encryption : Your data is automatically encrypted both while in transit, and stored (at rest).
+Encryption
+Limited Access : By default, Anthropic employees cannot access your conversations unless: You explicitly consent to share your data with us as a part of giving us feedback ( learn more ). Review is needed to enforce our Usage Policy . In such cases, your conversation data is protected through strict access controls– only designated  members of our Trust & Safety team may access this data on a need-to-know basis as a part of their evaluation process.
+Limited Access : By default, Anthropic employees cannot access your conversations unless:
+Limited Access
+You explicitly consent to share your data with us as a part of giving us feedback ( learn more ).
+You explicitly consent to share your data with us as a part of giving us feedback ( learn more ).
+Review is needed to enforce our Usage Policy . In such cases, your conversation data is protected through strict access controls– only designated  members of our Trust & Safety team may access this data on a need-to-know basis as a part of their evaluation process.
+Review is needed to enforce our Usage Policy . In such cases, your conversation data is protected through strict access controls– only designated  members of our Trust & Safety team may access this data on a need-to-know basis as a part of their evaluation process.
+Our Security Measures
+Our Security Measures
+We use a variety of industry-standard security measures to protect your data, including but not limited to:
+System Security
+System Security
+Regular security monitoring and vulnerability checks.
+Regular security monitoring and vulnerability checks.
+Up-to-date anti-malware protection.
+Up-to-date anti-malware protection.
+Secure remote access requiring multi-factor authentication.
+Secure remote access requiring multi-factor authentication.
+Strict password policies and unique login credentials.
+Strict password policies and unique login credentials.
+Mobile device management policies.
+Mobile device management policies.
+Network segmentation.
+Network segmentation.
+Organizational Security
+Organizational Security
+Annual security and privacy training for all employees.
+Annual security and privacy training for all employees.
+Regular security assessments.
+Regular security assessments.
+Comprehensive system inventory management.
+Comprehensive system inventory management.
+Secure company device management policies.
+Secure company device management policies.
+Employee access to systems is based on the least privilege principle.
+Employee access to systems is based on the least privilege principle.
+International Data Transfers
+International Data Transfers
+As a global company, we may process data in different countries where we or our partners operate. When transferring data outside the EEA or UK, we ensure protection through:
+Adequacy Decisions : Transfers to countries recognized by the European Commission as having adequate data protection standards.
+Adequacy Decisions : Transfers to countries recognized by the European Commission as having adequate data protection standards.
+Adequacy Decisions
+Standard Contractual Clauses (SCCs) : Legal agreements which include SCCs with our partners to ensure that the appropriate data protection standards are in place.
+Standard Contractual Clauses (SCCs) : Legal agreements which include SCCs with our partners to ensure that the appropriate data protection standards are in place.
+Standard Contractual Clauses (SCCs)

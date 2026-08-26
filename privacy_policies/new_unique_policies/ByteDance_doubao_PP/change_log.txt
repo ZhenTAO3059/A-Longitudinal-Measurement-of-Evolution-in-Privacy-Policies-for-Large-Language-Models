@@ -1,0 +1,4 @@
+Found 1 exact-text retained policy capture(s).
+Found 1 distinct stated effective/update date(s).
+
+Timestamp 20240529154215 => - Effective as of [May 20, 2024]

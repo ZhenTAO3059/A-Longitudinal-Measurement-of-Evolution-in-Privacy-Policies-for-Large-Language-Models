@@ -1,0 +1,3 @@
+This article is about our commercial products such as Claude for Work and the Anthropic API. For our consumer products such as Claude Free, Pro, Max and when accounts from those plans use Claude Code, see here .
+Deleting and Renaming Individual Conversations
+For paid API customers, we do not support ad hoc deletion. See here for more information on our data retention practices. We do not use API data for training (unless you have an agreement with us that states otherwise).

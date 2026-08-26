@@ -1,0 +1,18 @@
+Enterprise FAQs
+Common questions from xAI business and enterprise customers using the API.
+API Docs
+Consumer FAQ
+Grok on X
+Who is xAI?
+Who owns inputs and outputs?
+Does xAI train its models using your business data?
+What security measures does xAI use to protect customer data?
+Does xAI support customers with compliance with the GDPR and other privacy laws?
+Is xAI HIPAA compliant?
+Does xAI look at or otherwise review business data, such as inputs?
+For how long is business data retained?
+Does xAI sell my data?
+Can I use the xAI API to run a competing service?
+What is the minimum age to use the xAI API?
+Who do I reach out to learn more or ask specific questions?
+Last updated: February 25, 2025

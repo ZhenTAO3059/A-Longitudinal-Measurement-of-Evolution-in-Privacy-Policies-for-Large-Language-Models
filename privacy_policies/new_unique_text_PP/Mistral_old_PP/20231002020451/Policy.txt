@@ -1,0 +1,33 @@
+Privacy Policy
+Last updated - Sep, 2023
+Purpose & Scope
+The purpose of this policy is to establish the requirements and guidelines for the use of Mistral AI Large Language Models (LLMs) by employees, contractors, temporaries, referred to as “staff members” of client companies, whether through company-owned devices or BYOD. This policy aims to ensure that the use of Mistral AI LLMs is ethical, lawful, secure, and abides by all company policies, applicable laws, and regulations.
+
+Important Risks to Consider When Utilizing Mistral AI LLMs
+The use of Mistral AI LLMs has inherent risks that staff members must be aware of and understand before using Mistral AI LLMs.
+
+Data Confidentiality & Privacy Risks:
+
+Information entered into Mistral AI LLMs may not become public or utilized in a training dataset unless specified otherwise. Nevertheless, end-user applications provided by third parties can collect data that could violate data privacy laws, breach customer contracts, or compromise company trade secrets. The privacy policies of Mistral AI LLMs solution providers vary.
+Accuracy & Quality Control Risks:
+
+Mistral AI LLMs relies upon algorithms that are trained on limited datasets to generate content. There is a significant risk that Mistral AI LLMs may generate inaccurate or unreliable, and completely false information, known as hallucinations. Staff members should exercise extreme caution when relying on Mistral AI LLMs generated content and always review and edit responses for accuracy before utilizing any content.
+Intellectual Property Risks:
+
+To the extent that staff members utilize Mistral AI LLMs to generate any content or code, that content may not be protected by copyright laws in many jurisdictions due to the fact there was no human authorship. As of March 2023, the United States Copyright Office does not recognize Mistral AI LLMs generated content as copyrightable.
+Since Mistral AI LLMs generated content is based on previous training datasets, the content may be considered a derivative work of any copyrighted materials used to train the Mistral AI LLMs .
+To the extent that code, financial data, other trade secrets, or confidential information are submitted to a public Mistral AI LLMs for analysis, there is a risk that other users and companies that utilize that same Mistral AI LLMs may be able to access and disclose that sensitive information.
+Any software code submitted to or received from Mistral AI LLMs may include some open-source derivative references, which may be subject to various open-source license obligations and requirements such as:
+The redistribution of open-source code
+Limitations on the commercial use of open-source code
+Author attribution references the original author of the open-source code.
+Bias & Objectionable Content Risks:
+
+Mistral AI LLMs may produce biased, discriminatory, offensive, or unethical content.
+Furthermore, Mistral AI LLMs may produce content that does not align with the company’s mission, vision, values, and policies.
+Review & Updates:
+
+This policy shall be reviewed and updated periodically to ensure continued compliance with all applicable laws, regulations, and company policies.
+Privacy and data collection
+Collection of private data
+Mistral AI does not collect private or customer data.

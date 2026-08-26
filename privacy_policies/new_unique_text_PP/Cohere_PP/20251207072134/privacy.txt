@@ -1,0 +1,185 @@
+Cohere Privacy Policy
+Last Update: November 3, 2025
+Cohere processes information both for its own business purposes (as a “controller”) and in connection with our Services offered to customers (as a “processor”). This Policy applies when Cohere is the controller of personal information, unless otherwise noted. If does not apply where Cohere is acting in the role of data processor on behalf of a customer. Where we provide the Services to a customer, that customer is the controller of the personal information processed through their own customer applications and services.
+Collection and Use of Personal Information
+Collection and Use of Personal Information
+Customer inputs (prompts) and outputs (generations) collected through the Cohere Services
+The Services are for enterprise use, not for personal or household use. Users trialling the Services through a free trial account should not include any personal information in inputs submitted to the Services. Enterprise customers with a business credit card on file that require Cohere to process input or output data that contains personal information for the purpose of their own customer applications and services must request a data processing addendum by contacting privacy@cohere.com.
+Customers are responsible for complying with applicable privacy laws when collecting, using, or disclosing personal information through the Services, including by providing and obtaining all necessary notices and consents. Information we collect or generate on behalf of our enterprise customers is treated and retained in accordance with our contractual commitments to our customers.
+If you have any questions regarding the personal information we process on behalf of one of our customers, we encourage you to first contact the customer directly and/or review their applicable privacy policy. For more information on how we handle input and output data on behalf of our customers, please review ourEnterprise Data Commitments.
+If customers access our AI models and solutions through a third party’s managed machine learning platform or service (for example, via AWS, GCP, or Azure),Cohere will not have access to and does not store or process any input or output data.
+The business contact information we receive when our customers’ personnel sign up for an account on the Services, or communicate with us regarding our other products and offerings is processed as described below.
+Information collected through our Website or other interactions with you
+We may collect information about you when you:
+Create an account
+Create an account
+Book a demo
+Book a demo
+Sign up to receive marketing emails, such as newsletters and blog posts, or interact with our content
+Sign up to receive marketing emails, such as newsletters and blog posts, or interact with our content
+Attend an event hosted by us
+Attend an event hosted by us
+Participate in our surveys
+Participate in our surveys
+Apply for a job and participate in our recruitment activities
+Apply for a job and participate in our recruitment activities
+Contact us with a comment, question, or complaint
+Contact us with a comment, question, or complaint
+Visit our Website or interact with us on social media (e.g., via LinkedIn, etc.)
+Visit our Website or interact with us on social media (e.g., via LinkedIn, etc.)
+Creating an Account:If you wish to try out or use our Services for enterprise use, you will be required to create an account in order to access and use the Services. To create your account, we collect your first and last name, email address, and a password that you create as well as optional information such as your role and how you plan to use the Services. To create a paying account, you will be asked to provide an enterprise credit card. We use this information to create and administer the account, facilitate and analyze access to and use of the Services, process payments, and to prevent fraud and illegal activity or misuse of the Services. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls, or email messages). If you become aware of any unauthorized access to or use of your account, you are required to notify us immediately.
+Creating an Account:
+Book a Demo:If you sign up to request a demo, we collect your first and last name, business email address, country, phone number (optional) as well as information about your company (size, deployment preference, product of interest and how you plan to use AI). We use this information to respond to your inquiry and set up a demo.
+Book a Demo:
+Marketing Communications:We may collect and use your business email address to send you communications regarding our platform and other products and services that we believe are of interest to you. You can unsubscribe at any time by clicking the “unsubscribe” link included at the bottom of each email or by contacting us at the contact information provided in the “Contact Us” section below. Please note that you may continue to receive transactional or account-related communications from us after you unsubscribe.We may also use services provided by third-party platforms (such as social media sites) to serve tailored ads on such platforms to you and/or others, and we may provide a hashed version of your email address or other information to the platform provider for such purposes. To opt-out of the use of your email address for this type of advertising, contact us atprivacy@cohere.com.Attend an Event:If you register for and/or attend one of our events, we may collect information such as your first and last name, job title, company name, business email address or phone number. We collect this information so that we can communicate with you about the event and contact you about future events that may be of interest to you.
+Marketing Communications:
+Attend an Event:
+Surveys:From time to time, we may offer you the opportunity to participate in one of our surveys. The information obtained through our surveys is used in an aggregated, de-identified form. We use this information to help us understand our users and to enhance our Website, marketing activities, and Services.
+Surveys:
+Job Applicants:If you apply for a job with us, we may collect certain personal information about you (such as information that would be contained in a resume, cover letter, or other employment-related materials). We use this information for the purpose of processing, evaluating, and responding to your application. We may also collect information from third parties about you, such as references you list, for the same purpose.
+Job Applicants:
+Contact Us: When you contact us with a comment, question, or complaint such as by email or our social media pages, we may collect your name, business email address and telephone number, along with additional information that we need to help us promptly answer your question or respond to your comment. We may retain this information to assist you in the future and to improve our customer service and Service offerings.
+Contact Us
+Visit our Website or interact with our content:We use cookies and tracking technologies served by us or by third parties that collect information about your interactions with our Website, the Services, and our content for essential, functional, analytical, and advertising purposes. Please seeInformation about Cookies and Advertisingbelow for more details and for information about how to opt out of these Cookies.
+Visit our Website or interact with our content:
+Means of Collection
+In most cases, we collect personal information that you provide to us directly. We also collect information automatically from your device when you visit or use our Website or Service, as described in the “INFORMATION ABOUT OUR WEBSITE” section below. In limited circumstances, we may also collect business contact information or insights about business prospects from third parties such as advertising and marketing partners.
+Disclosure of Personal Information
+Disclosure of Personal Information
+We disclose your personal information to the parties and entities described below, with your consent, or as required or permitted by law.
+Affiliates: Your personal information may be transferred (or otherwise made available) to our affiliates to meet our legal and compliance requirements and operational needs.
+Affiliates
+Vendors and Service Providers:Your personal information will be transferred (or otherwise made available) to certain companies that provide services to us or on our behalf. We use vendors and service providers to provide and receive services, such as cloud computing, payment processing, data storage, publishing, advertising and analytics. Our vendors and service providers may be located in the U.S., Canada, or other foreign jurisdictions.
+Vendors and Service Providers:
+Legal and Compliance:We and our Canadian, U.S., and other foreign vendors and service providers may provide your personal information in response to a search warrant to other legally valid inquiry or order, or to another organization for the purposes of investigating a breach of an agreement or contravention of law or detecting, suppressing, or preventing fraud, or as otherwise may be required or permitted by applicable Canadian, U.S., or other law or legal process, which may include lawful access by U.S. or foreign courts, law enforcement, or other government authorities. Your personal information may also be disclosed where necessary for the establishment, exercise, or defence of legal claims, and to investigate or prevent actual or suspected loss or harm to persons or property.
+Legal and Compliance:
+Sale of Business: We may transfer any information we have about you as an asset in connection with a proposed or completed merger, acquisition, or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Cohere.com or as part of a corporate reorganization or other change in corporate control.
+Sale of Business
+Aggregate/De-Identified Information: We may aggregate and/or de-identify information collected through the Website or our Services so that such information can no longer be linked to you or your device (“De-Identified Information”). We may use De-Identified Information for research, product development, marketing purposes, or to develop insights into our Website, Services or marketing activities, and may also disclose such information to any third parties, including advertisers, partners, and sponsors, for such purposes.
+Aggregate/De-Identified Information
+Safeguards, Retention, and Privacy Governance Policies
+Safeguards, Retention, and Privacy Governance Policies
+We have implemented policies and practices that govern our treatment of personal information. This includes, among other things:
+Policies and procedures, and administrative, technical, and physical measures to protect personal information in our custody and control from unauthorized access, use or disclosure. We authorize access to personal information on a need-to-know basis to employees and authorized service providers who require access to fulfil their job requirements.
+Policies and procedures, and administrative, technical, and physical measures to protect personal information in our custody and control from unauthorized access, use or disclosure. We authorize access to personal information on a need-to-know basis to employees and authorized service providers who require access to fulfil their job requirements.
+Processes to respond to data subject requests and complaints in a timely and effective manner. SeeRights and Choices, below.
+Processes to respond to data subject requests and complaints in a timely and effective manner. SeeRights and Choices, below.
+A framework for the retention and destruction of personal information consistent with applicable laws.
+A framework for the retention and destruction of personal information consistent with applicable laws.
+We keep personal information where operationally or legally necessary, consistent with applicable laws and the purposes set out in this Privacy Policy. We may collect and use the same category of personal information for different purposes and in different contexts, and because rules differ by jurisdiction, there is not typically a fixed retention period that will always apply to a particular category of personal information. Retention will depend on the context and purpose for which the information was collected. For example, we may retain information you use to register for the Services for as long as you maintain an account with us. We may also retain your email address for as long as you are subscribed to our marketing emails, or, if you unsubscribe, to ensure that we comply with your unsubscribe request.
+Rights and Choices
+Rights and Choices
+International Transfers Of Personal Information
+International Transfers Of Personal Information
+Cohere is a global organization with affiliates, partners, service providers and vendors located in many countries around the world. For that reason, Cohere may transfer, store, and/or receive certain personal information outside of your jurisdiction of residence (including, for residents of Quebec, outside of Quebec) and across geographical borders to and/or from Cohere affiliates, partners or service providers in other countries working on our behalf in accordance with applicable law. Examples of countries we transfer personal information to include, but are not limited to, Canada, the United States, and the United Kingdom. As a result, in certain circumstances, other foreign governments, courts, law enforcement agencies, or regulatory agencies may be entitled to access the personal information collected and held by Cohere, its affiliates, partners, and service providers.
+Third-Party Links And Services
+Third-Party Links And Services
+Our Website may contain links to other websites that Cohere does not own or operate. Our Services may also allow you to connect to or from third-party services. We provide links to and allow you to connect to or from third-party websites and services as a convenience to the user. These links or connections are not intended as an endorsement of or referral to the linked websites/services. The linked websites/services have separate and independent privacy policies, notices, and terms of use. We do not have any control over such websites or services, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites/services may collect, use or disclose, secure and otherwise treat personal information. We encourage you to read the privacy policy of every website/service you visit.
+Updates To The Privacy Policy
+Updates To The Privacy Policy
+We may update this privacy policy periodically to reflect changes to our privacy practices. We encourage you to periodically review this page to ensure that you are familiar with those changes. We will indicate at the top of this privacy policy when it was most recently updated.Previous version.
+Contact Us
+Contact Us
+If you have any questions or comments about this privacy policy or the manner in which we or our service providers treat your personal information, or to make data subject requests, please contact our Privacy Officer at:
+Email:privacy@cohere.com
+Email:privacy@cohere.com
+Mailing Address: 171 John Street, Suite 200, Toronto, ON Canada M5T 1X3
+Mailing Address: 171 John Street, Suite 200, Toronto, ON Canada M5T 1X3
+Information about Cookies and Advertising
+Information about Cookies and Advertising
+Visiting Our Website and using our Services:In general, you can visit our Website or use the Services without actively entering any personal information. However, we collect the IP (Internet protocol) addresses of all visitors to our Website/Services and other related information, such as page requests, browser type, operating system, and average time spent on our Website/Services. We use this information to help us understand our Website/Services activity and to monitor and improve our Website/Services.
+Visiting Our Website and using our Services:
+Cookies:Our Website/Services uses cookies, pixel tags (also called web beacons), and other tracking technologies (which we collectively refer to as “cookies”). A cookie is data that our Website/Services or our third-party partners send to a user’s browser, which may then be stored on the user’s device so that we can recognize the user’s device and retrieve the information when they return. You may be able to set your browser to notify you when you receive certain cookies or to not accept certain cookies. However, if you decide not to accept cookies from our Website/Services, you may not be able to take advantage of all of the Website/Services features. To adjust your preferences or exercise control over the third parties who collect data via cookies on our Website (other than for Necessary Cookies), please click “Manage Cookies” to re-open the cookies preference page where you can adjust your settings. We use the following types of cookies:
+Cookies:
+Necessary Cookiesare required to help secure and enable the basic features of the Website/Services such as providing log-in functionality or adjusting your consent preferences.
+Necessary Cookiesare required to help secure and enable the basic features of the Website/Services such as providing log-in functionality or adjusting your consent preferences.
+Necessary Cookies
+Functional Cookiesmainly help perform certain optional functionalities like sharing the content of the Website on social media platforms and collecting feedback. Disabling these may affect your browsing experience.
+Functional Cookiesmainly help perform certain optional functionalities like sharing the content of the Website on social media platforms and collecting feedback. Disabling these may affect your browsing experience.
+Functional Cookies
+Analytical or Performance Cookiesare used mainly to understand how visitors arrive at and interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc. They help us understand and analyze the key performance indexes of the Website/Services and of advertisements that refer visitors to the website. Google is one of the services we use for analytics purposes. You can find more information about Google Analytics’s privacy and security practices at the following links: :https://policies.google.com/technologies/partner-sitesandhttps://support.google.com/analytics/topic/2919631. To prevent Google Analytics’ javascripts from sharing information with Google Analytics about website visit activity, , you can download and install the plug-in available at the following link:https://tools.google.com/dlpage/gaoptout?hl=en..
+Analytical or Performance Cookiesare used mainly to understand how visitors arrive at and interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc. They help us understand and analyze the key performance indexes of the Website/Services and of advertisements that refer visitors to the website. Google is one of the services we use for analytics purposes. You can find more information about Google Analytics’s privacy and security practices at the following links: :https://policies.google.com/technologies/partner-sitesandhttps://support.google.com/analytics/topic/2919631. To prevent Google Analytics’ javascripts from sharing information with Google Analytics about website visit activity, , you can download and install the plug-in available at the following link:https://tools.google.com/dlpage/gaoptout?hl=en..
+Analytical or Performance Cookies
+Advertisement Cookiesare used mainly to collect information about your online interactions on and off our site in order to build a profile of your interests and show you relevant ads on third-party sites, including on social media services. If you opt-out of these cookies, you will still receive ads but they may be less personalized. SeeInterest-Based Advertisingbelow for more information.
+Advertisement Cookiesare used mainly to collect information about your online interactions on and off our site in order to build a profile of your interests and show you relevant ads on third-party sites, including on social media services. If you opt-out of these cookies, you will still receive ads but they may be less personalized. SeeInterest-Based Advertisingbelow for more information.
+Advertisement Cookies
+Interest-Based Advertising
+We work with third parties such as ad networks and other advertising companies that use their own tracking technologies (including cookies) on our Website/Services in order to provide you with tailored advertisements across the Internet. This is a common marketing practice referred to as interest-based or online behavioral advertising. These companies may collect information about your activity on our Website and third-party websites (such as web pages you visit and your interaction with our advertising and other communications) and use this information to make build a profile of your interests, make predictions about your preferences, develop personalized content and deliver ads that are more relevant to you on third-party websites. This information may also be used to evaluate the effectiveness of our online advertising campaigns. The use of cookies for this purpose may be considered a “sale” or “sharing” under California privacy law.
+Opting-out of Interest-Based Advertising: To opt out of the use of cookies for purposes of interest-based advertising, including “sale” or “sharing” under California law, you can adjust your preferences by clicking the “Manage Cookies” button in the Website footer.
+For more information about interest-based advertising, including how you can opt-out of receiving behavioural ads from third-party advertising companies participating in the Digital Advertising Alliance of Canada, please visit the Digital Advertising Alliance of Canada website athttp://youradchoices.ca/choices.
+Please note that even if you opt-out of interest-based advertising by a third party, these tracking technologies may still collect data for other purposes including analytics and you will still see ads from us, but the ads will not be targeted based on behavioural information about you and may therefore be less relevant to you and your interests.
+To successfully opt out, you must have cookies enabled in your web browser (see your browser’s instructions for information on cookies and how to enable them). Your opt-out only applies to the web browser you use so you must opt-out of each web browser on each device you use to access the Website. Once you opt out, if you delete your browser’s saved cookies, or use a browser that automatically deletes cookies, you will need to opt out again.
+Additional Information For California Residents
+Additional Information For California Residents
+This part of our Privacy Policy applies only to the personal information we process about consumers who are residents of California. It does not cover personal information or practices that are exempt from the California Consumer Privacy Act (“CCPA”), and it does not cover personal information about individuals who reside outside of California. It also does not cover personal information that we handle on behalf of a customer.
+Throughout this Policy, we discuss in detail the specific categories of personal information we collect from and about you. We provide additional information required by the CCPA below.
+Personal Information Collected, Used, and Disclosed
+The following sections explain the California personal information we collected and used in the 12 months before the publication of this Policy.
+Category of Personal Information CollectedWe collect the following information, as described above:
+Category of Personal Information Collected
+Contact Information (such as your name and business email address)
+Contact Information (such as your name and business email address)
+Payment Information (e.g. credit card and invoice details - these typically related to our customers and not individuals)
+Payment Information (e.g. credit card and invoice details - these typically related to our customers and not individuals)
+Commercial information, such as your transaction history
+Commercial information, such as your transaction history
+Login information (such as your account name and password)
+Login information (such as your account name and password)
+Device and online information (such as device identifiers, IP address, and usage information)
+Device and online information (such as device identifiers, IP address, and usage information)
+Professional information (such as your job title and company or organization name)
+Professional information (such as your job title and company or organization name)
+Geolocation information (such as the approximate location from which a device accesses the Services based on IP address)
+Geolocation information (such as the approximate location from which a device accesses the Services based on IP address)
+Employment-related information (e.g. your resume)
+Employment-related information (e.g. your resume)
+Use of Personal Information
+Use of Personal Information
+We use this information for the following purposes, as described above:
+Provide, analyze and maintain the Website and Services
+Provide, analyze and maintain the Website and Services
+Communicate with you, including to send you information about our products and events
+Communicate with you, including to send you information about our products and events
+Create and administer accounts for the Services, facilitate and analyze access to and use of the Services, process payments, and to prevent fraud and illegal activity or misuse of the Services.
+Create and administer accounts for the Services, facilitate and analyze access to and use of the Services, process payments, and to prevent fraud and illegal activity or misuse of the Services.
+Process your job application.
+Process your job application.
+Comply with legal obligations.
+Comply with legal obligations.
+Advertise our company and products to enterprise customers and their personnel.
+Advertise our company and products to enterprise customers and their personnel.
+Disclosures of Personal Information
+Disclosures of Personal Information
+We may disclose this information in the following circumstances, as described above:
+Vendors, service providers and affiliates to process in accordance with our instructions.
+Vendors, service providers and affiliates to process in accordance with our instructions.
+Government authorities or other third parties where required by law.
+Government authorities or other third parties where required by law.
+Parties involved in transactions.
+Parties involved in transactions.
+Other third party services or websites you interact or share information with.
+Other third party services or websites you interact or share information with.
+Advertising, marketing, and related analytics providers or partners.
+Advertising, marketing, and related analytics providers or partners.
+“Sale,” “Sharing,” and Related Opt-out
+Our disclosures of business contact information, device and online information, professional information and geolocation information (as described above) to our advertising, marketing, and related analytics providers or partners may qualify under the CCPA as what it defines as a “sale” or “sharing” of personal information. To our knowledge, we do not “sell” or “share” (as those terms are defined under the CCPA) the personal information of individuals under 16 years of age.
+You can exercise your right to opt out of those disclosures related to our use of cookies by clicking on the Manage Cookies button in the footer of our Website or the Cookie Settings button in the cookie banner shown to you and then following the instructions to deactivate all optional categories of cookies. You could also start your request by emailing us atprivacy@cohere.com, but because of the cookie-based nature of many forms of “selling” and “sharing,”, you will still need to use the Cookie settings to adjust your preferences.
+Your browser may also offer a way to activate the Global Privacy Control signal (“GPC”). Although our Website does not respond to do-not-track signals, the Website treats qualifying browsers for which the user has activated the GPC signal as having opted out of what CCPA calls a “sale” or “sharing” of any California personal information that is collected on that site from that browser using cookies and similar technology. You can override that treatment for a GPC-enabled browser by using the cookie controls available via the Manage Cookies link in the Website’s footer to opt into particular categories of cookies from that browser. In that case, “sales” and “sharing” via cookies and similar technology in those categories may begin or resume on that browser.
+California Data Retention Practices
+It is our policy not to retain California personal information after we determine it is no longer than necessary for the purposes set out in this Policy or as otherwise required to meet legal or business requirements. We may collect and use the same category of personal information for different purposes and in different contexts, and because rules differ by jurisdiction, there is not typically a fixed retention period that always will apply to a particular category of personal information. Retention will depend on the context and purpose for which the information was collected. For example, (i) we retain records of email opt-outs indefinitely; and (ii) we may retain server logs reflecting California traffic to our website for several months or years for security purposes.
+CCPA Right to Access, Correct, or Delete Personal Information
+If you are a California resident, CCPA also may permit you to request that we:
+Provide access to and/or a copy of certain information we hold about you;
+Provide access to and/or a copy of certain information we hold about you;
+Delete certain information we have about you;
+Delete certain information we have about you;
+Correct certain personal information we have about you; and
+Correct certain personal information we have about you; and
+Inform you about the categories of personal information we have collected about you in the preceding 12 months; the categories of sources of such information; the business or commercial purpose for collecting or selling your personal information; and the categories of third parties with whom we have disclosed certain personal information, and more specific detail about what categories of information were "sold" or "shared" (as defined in the CCPA) or disclosed to particular categories of third parties, similar to the detail provided above in this Privacy Policy.
+Inform you about the categories of personal information we have collected about you in the preceding 12 months; the categories of sources of such information; the business or commercial purpose for collecting or selling your personal information; and the categories of third parties with whom we have disclosed certain personal information, and more specific detail about what categories of information were "sold" or "shared" (as defined in the CCPA) or disclosed to particular categories of third parties, similar to the detail provided above in this Privacy Policy.
+We use California personal information as described earlier in this Privacy Policy. However, we do not use California “sensitive personal information” (as defined by the CCPA) in a manner that would require us to comply with the CCPA obligation to offer individuals a special right to limit our handling of that data due to its sensitive nature.
+Please note that certain information may be exempt from such requests under California law. For example, we need certain information to maintain an account, so we may reject a deletion request for that information if you still wish for us to maintain the account.
+To request to exercise any of these rights and receive the fastest response, please send an email to privacy@cohere.com. We reserve the right to require verification of your identify before we fulfill a request, which may include requiring you to login to an existing Cohere account, providing us with information that matches our records for you, responding to an email we send, or taking other steps relevant to your relationship with us and the nature of your request.
+If you are an agent making a request on behalf of a consumer, we reserve the right to take steps to verify that you are authorized to make that request, which may include requiring you to provide us with written proof such as a notarized authentication letter or a legally sufficient power of attorney signed by the data subject pursuant to California Probate Code sections 4121 to 4130, or other written authorization acceptable to us. We also may require the consumer to verify their identity directly with us where permitted. We are not responsible for the security risks of this or any other arrangements that a consumer may have with an agent. For clarity, this is not permission for any user to disclose their login credentials to an agent or any third party. Such disclosure is prohibited and is not required for an agent to make requests under this Notice.
+For security and legal reasons, however, Cohere reserves the right not to accept requests that require us to access third-party websites or services.
+You have a right not to receive “discriminatory treatment” (within the meaning of the CCPA) or be subject to retaliation for the exercise of the privacy rights conferred by the CCPA.

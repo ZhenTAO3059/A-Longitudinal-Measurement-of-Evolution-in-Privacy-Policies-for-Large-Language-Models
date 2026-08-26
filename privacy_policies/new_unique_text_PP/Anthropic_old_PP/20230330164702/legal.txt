@@ -1,0 +1,119 @@
+Privacy Policy
+Version 2.0
+Effective March 29, 2023
+Download
+Table of Contents
+Anthropic is an AI safety and research company working to build reliable, interpretable, and steerable AI systems.
+This Privacy Policy explains how we collect, use, disclose, and otherwise process your personal information on our website and other places where Anthropic may act as a data controller and link to this Privacy Policy—for example, where you use Anthropic’s APIs or other products as a consumer for personal use (“
+Services
+”). It does not apply to personal information we receive, process, store, or host when you use Anthropic’s AI services as or through an enterprise customer, unless otherwise specified in this policy. In those cases, you interact with us through the enterprise customer company, and you can review their privacy policy for more information about how they handle your personal information.
+1. Collection of Personal Information
+We collect the following categories of personal information when you interact with our Services, including if you have an Anthropic account on our Services. We need this data to provide you with our Services, which may allow you to use our API or interact with our AI services via various interfaces.
+Personal information you provide to our Website
+Identifiers
+: Anthropic may collect identifiers, such as your name and email when you sign up for an Anthropic account, to receive information on our Services, or submit an application for an employment opportunity. If you do not provide us with this information, we will not be able to administer your Anthropic account. We may also collect indirect identifiers (e.g., “USER12345”).
+Financial Information
+:  We will collect your payment information if you choose to purchase access to Anthropic’s products and services through the Services. If you do not provide us with this information, we will not be able to facilitate the purchase of Anthropic’s products and services.
+Professional Information
+: If you use our Services to apply for employment, Anthropic may collect professional information that you give us, such as your résumé.
+Internet or other electronic network activity information
+: When you use our AI services, we collect your Prompts in order to generate Results (as defined in our Terms of Use), which may be associated with identifiers relating to you. If you include personal information in your Prompts, we will also process that information. Note, however, that Prompts and Results are subject to strict retention periods, as set out below in Section 8.
+Feedback on your use of our Services
+: Where applicable, we will collect your Feedback (as defined in our Terms of Use) regarding Prompts and Results and use it to train and improve our Services. This might arise if, for example, you report that Claude returned inaccurate information in a Result, or if you rate a Result to your Prompt using the thumbs-up/thumbs-down icon. We may also collect and use this information for the same purposes when you use our enterprise services.
+Personal information we receive automatically from your use of the Website
+When you access and use the Services, Anthropic may receive the following information automatically:
+Internet or other electronic network activity information, including your device type;
+IP address (including information about the location of the device derived from your IP address);
+Device or advertising identifiers, probabilistic identifiers, and other unique personal or online identifiers;
+Information about your device and operating system, such as time zone setting and location, operating system and platform;
+Information about your browser, such as browser type and version, browser plug in types and versions;
+Internet service provider;
+Pages that you visit before and after the website, browsing history, search history, and the date and time of your visit;
+Information about the links you click, pages you view, and advertising you interact with within the website and other information about how you use the Services;
+The technology on the devices you use to access the Services; and
+Standard server log information.
+If you or your device experiences an error, we may collect information about the error, the time the error occurred, the feature being used, the state of the application when the error occurred, and any communications or content provided at the time the error occurred.
+In these contexts, Anthropic receives personal information from the following categories of sources: directly from you, such as when you interact with the Anthropic website, and from internet service providers.
+2. Cookies & Similar Technologies
+We and our service providers use cookies, scripts, or similar technologies to manage the Services and to collect information about you and your use of the Services. These technologies help us to recognize you, customize or personalize your experience, offer additional products or services to you, and analyze the use of our Services to make it more useful to you.
+These technologies may also allow us to collect demographic and statistical data and provide this information to our service providers to help deliver their services. Most internet browsers allow you to remove or manage cookie functions and adjust your privacy and security preferences. For information on how to do this, access the “help” menu on your internet browser, or access
+http://www.aboutcookies.org/how-to-control-cookies
+.
+Please note, however, that disabling our cookies may mean that you may not be able to take full advantage of our Services.
+3. Uses of Personal Information
+Anthropic uses your personal information for the following business purposes:
+To provide and facilitate the Services
+, including to fulfill any contracts with you with respect to your Anthropic account.
+For our legitimate business purposes or with your consent, as applicable
+, including:
+To communicate with you, including by sending you emails, push notifications, and other messages.
+To review and consider your application for employment with Anthropic, if you choose to apply.
+To create and administer your Anthropic account.
+To facilitate payments for products and services provided by Anthropic.
+To prevent and investigate fraud notifications, unlawful or criminal activity, unauthorized access to or use of personal information or Anthropic systems and networks, and to meet governmental and institutional policy obligations.
+To investigate and resolve disputes and security issues.
+To debug to identify and repair errors that impair existing functionality.
+To enforce our Terms of Service and similar terms and agreements, including our Acceptable Use Policy.
+To improve the Services and our other products and services.
+For other business purposes at your direction or with your consent.
+To comply with applicable laws, rules, and guidance
+, including those related to AI systems.
+4. How We Disclose Personal Information
+Anthropic will disclose personal information to the following categories of third parties for business purposes:
+Affiliates & corporate partners
+. Anthropic discloses the categories of personal information described above between and among its affiliates and related entities.
+Service providers & business partners
+. Anthropic may disclose the categories of personal information described above with service providers and business partners for a variety of business purposes, including website and data hosting, ensuring compliance with industry standards, research, auditing, and data processing.
+Anthropic may also disclose personal information in the following circumstances:
+As part of a significant corporate event
+. If Anthropic is involved in a merger, corporate transaction, bankruptcy, or other situation involving the transfer of business assets, Anthropic will disclose your personal information as part of these corporate transactions.
+To comply with regulatory or legal requirements, safety and terms enforcement
+. We may disclose personal information to governmental regulatory authorities as required by law, including for tax or accounting purposes, in response to their requests for such information or to assist in investigations. We may also disclose personal information to third parties in connection with claims, disputes or litigation, when otherwise required by law, or if we determine its disclosure is necessary to protect the health and safety of you or any other person, to protect against fraud or credit risk, or to enforce our legal rights or contractual commitments that you have made.
+With an individuals’ consent
+. Anthropic will disclose personal information when an individual gives us permission or directs us to disclose this information.
+If you access third party services, such as social media sites or other sites linked through the Services (e.g., if you follow a link to our Twitter account), these third-party services will be able to collect personal information about you, including information about your activity on the Services. If we link to a site or service via our Services, you should read their data usage policies or other documentation. Our linking to another site or service doesn’t mean we endorse it or speak for that third party.
+5. Rights and Choices
+Subject to applicable law, and depending on where you reside, you may have some rights regarding your personal information, including the following:
+Right to know
+. You may have the right to know what personal information Anthropic has collected about you, including the categories of personal information, the categories of sources from which it is collected, the business or commercial purposes for collection, and the categories of third parties to whom we disclose it.
+Access & data portability
+. You may have the right to request a copy of the personal information Anthropic processes about you, subject to certain exceptions.
+Deletion
+. You may have the right to request that we delete personal information collected from you and retained, subject to certain exceptions.
+Correction
+. You may have the right to request that we correct inaccurate personal information Anthropic retains about you, subject to certain exceptions.
+Objection
+. You may have a right to object to some processing activities.
+Withdrawal of consent
+. Where Anthropic’s processing of your personal data is based on consent, you may have the right to withdraw your consent.
+Sale & targeted advertising
+. Anthropic does not “sell” your personal information as that term is defined by applicable laws and regulations. Anthropic also does not engage in targeted advertising using your personal information. We do not knowingly collect, sell, or share information of consumers between the ages of 13 and 16.
+Do Not Track
+. Some web browsers provide a “Do Not Track” option. We currently do not respond to browser “Do Not Track” signals.
+To exercise your access, portability, deletion, or correction rights, you or an authorized agent may submit a request by emailing us at
+privacy@anthropic.com
+. After we receive your request, we may verify it by requesting information sufficient to confirm your identity. You may also have the right to appeal requests that we deny by emailing
+privacy@anthropic.com
+.
+6. Third-Party Websites and Services
+Our Services may involve integrations with, or may direct you to, websites, apps, and services managed by third parties. By interacting with these third parties, you acknowledge that you are providing information directly to the third party and not Anthropic and subject to the third party’s privacy policy. For example, if you use the Services to apply for employment, this could involve an integration with a third party product, subject to that third-party product’s privacy policy.
+7. Data Transfers
+Anthropic is based in the United States. If, per the EU and/or UK GDPR, there is an international transfer of your personal information in connection with your use of the Website, including an onward transfer, Anthropic relies on appropriate safeguards, such as standard contractual clauses. You may ask us to provide further information about this, or to provide you with a copy of the appropriate safeguard, by contacting us as provided in this Privacy Policy.
+8. Data Retention
+Anthropic retains your personal information for as long as reasonably necessary for the purposes and criteria outlined in this Privacy Policy, except that (1) we automatically delete Prompts and Results from our Anthropic API product within 30 days of receipt or generation, and (2) we delete information you instruct us to delete in accordance with Section 5 above. For Services, other than the Anthropic API, we may retain Prompts and Results as needed to provide the Service. As an example, if a Service allows you to save and continue conversations, we retain the Prompts and Results in order to provide you with a consistent product experience over time.
+When assessing how long your personal information is retained, we consider criteria such as: (i) the nature of the personal information and the activities involved; (ii) when and for how long you interact with Anthropic; and (iii) our legitimate interests and our legal obligations. In all cases, we may retain Prompts and Results as required by law or as necessary to combat violations of our Acceptable Use Policy.
+9. Changes to Our Privacy Policy
+Anthropic may update this Privacy Policy from time to time. When we make updates, we will post the updated Privacy Policy on this page and will update the Effective Date. We encourage you to review this page for updates when you access the Services.
+10. Contact Information
+Contact us via email at
+privacy@anthropic.com
+or by mail to:
+Anthropic PBC
+548 Market St
+PMB 90375
+San Francisco, CA 94104 (United States)
+Please note that you have the right to lodge a complaint with the supervisory authority in the EU country in which you live or work. A full list of EU supervisory authorities’ contact details is available
+here
+. If you live or work in the UK, you have the right to lodge a complaint with the
+UK Information Commissioner’s Office
+.

@@ -1,0 +1,25 @@
+Data processing addendum
+Please complete the form linked below to execute OpenAI’s Data Processing Agreement.
+Note that this agreement is only applicable to our business service offerings (APIs for text completion, images, embeddings, moderations, etc.) andNOTour consumer services (ChatGPT, DALL·E Labs).
+NOT
+Unfortunately, we are unable to review or sign DPAs provided by our customers or customize our DPA on a case by case basis.
+Once you submit this form, you will have the opportunity to review the agreement before accepting or rejecting the terms. A request to review the agreement will also be sent to the signer email address you provided.
+The agreement will only be considered legally binding after you accepted the terms.
+Overview
+Index
+Overview
+GPT-4
+DALL·E 2
+Customer stories
+Safety standards
+Pricing
+Overview
+About
+Careers
+Blog
+Charter
+Twitter
+YouTube
+GitHub
+SoundCloud
+LinkedIn

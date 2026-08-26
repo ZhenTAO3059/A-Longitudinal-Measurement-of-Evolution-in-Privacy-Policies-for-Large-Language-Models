@@ -1,0 +1,17 @@
+About model training
+About model training
+Large language models such as Claude need to be ‘trained’ on text so that they can learn the patterns and connections between words. This training is important so that the model performs effectively and safely.
+While it is not our intention to “train” our models on personal data specifically, training data for our large language models, like others, can include web-based data that may contain publicly available personal data. We train our models using data from three sources:
+Publicly available information via the Internet
+Publicly available information via the Internet
+Datasets that we license from third party businesses
+Datasets that we license from third party businesses
+Data that our users or crowd workers provide
+Data that our users or crowd workers provide
+We take steps to minimize the privacy impact on individuals through the training process. We operate under strict policies and guidelines, for instance that we do not access password protected pages or bypass CAPTCHA controls. We undertake due diligence on the data that we license. And we encourage our users not to use our products and services to process personal data. Additionally, our models are trained to respect privacy : one of our constitutional "principles" at the heart of Claude, based on the Universal Declaration of Human Rights, is to choose the response that is most respectful of everyone’s privacy, independence, reputation, family, property rights, and rights of association.
+Data usage for Claude.ai Consumer Offerings (e.g. Free Claude.ai, Claude Pro plan)
+We will not use your Inputs or Outputs to train our models, unless: (1) your conversations are flagged for Trust & Safety review (in which case we may use or analyze them to improve our ability to detect and enforce our Usage Policy , including training models for use by our Trust and Safety team, consistent with Anthropic’s safety mission), or (2) you’ve explicitly reported the materials to us (for example via our feedback mechanisms), or (3) by otherwise explicitly opting in to training.
+Privacy Rights and Data Processing
+Our Privacy Policy explains your rights regarding your personal data, including with respect to our training activities. This includes your right to request a copy of your personal data, and to object to our processing of your personal data or request that it is deleted. We make every effort to respond to such requests. However, please be aware that these rights are limited, and that the process by which we may need to action your requests regarding our training dataset are complex.
+To find out more, or if you would like to know how to contact us regarding a privacy related topic, see our Trust Center and Privacy Policy .
+Please note, the Privacy Policy does not apply where Anthropic acts as a data processor and processes personal data on behalf of commercial customers using Anthropic’s Commercial Services. In those cases, the commercial customer is the controller, and you can review their policies for more information about how they handle your personal data.

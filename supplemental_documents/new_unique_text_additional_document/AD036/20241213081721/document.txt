@@ -1,0 +1,1 @@
+For paid API customers, we retain data for the amount of time specified in your contract. Even prior to deletion, we do not use API data for training (unless you have an agreement with us that states otherwise). For more information on data retention and deletion, please review your contracts with us.

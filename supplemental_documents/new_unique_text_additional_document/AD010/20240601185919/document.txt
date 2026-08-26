@@ -1,0 +1,39 @@
+Project IDX
+English
+Deutsch
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Magyar
+Nederlands
+Norsk – Bokmål
+Polski
+Português – Brasil
+Svenska
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Support
+Home
+Products
+Project IDX
+Support
+Gemini privacy notice
+A few words about AI and privacy —
+This notice and our Privacy Policy describe how IDX handles your data. Please read them carefully.
+When you use generative AI features in IDX, Google collects chat text, prompts, related code, generated output, related feature usage information, and your feedback ("AI Feature Data"). Google uses this data, consistent with our Privacy Policy , to provide, improve, and develop Google products and services and machine learning technologies, including Google's enterprise products such as Google Cloud.
+To help with quality and improve our products (such as generative machine-learning models that power the generative AI features in IDX), human reviewers read, annotate, and process a sample of your AI Feature Data. We take steps to protect your privacy as part of this process. This includes disconnecting your AI Feature Data from your Google Account before reviewers see or annotate it, and storing those disconnected copies for up to 18 months. Do not include sensitive, confidential, or personal information that can be used to identify you or others, including but not limited to names, phone numbers, addresses, emails, or birthdates, in your AI Feature Data.
+All rights reserved. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2024-04-24 UTC.

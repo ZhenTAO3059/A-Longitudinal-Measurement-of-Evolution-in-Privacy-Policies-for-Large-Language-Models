@@ -1,0 +1,23 @@
+Frequently Asked Questions (Enterprise)
+This page is designed to address questions from business or enterprise customers. If you’re an individual customer, please refer to ourConsumer FAQ.
+Does xAI train its models using business data?
+Does xAI train its models using business data?
+No, we do not use your business data, including inputs (prompts) or outputs (answers), for training our models. In some instances we may offer free credits in exchange for you agreeing to permit us to train on your business data.
+Who owns inputs and outputs?
+Who owns inputs and outputs?
+You do.
+What security measures does xAI use to protect customer data?
+What security measures does xAI use to protect customer data?
+Security measures are outlined in Appendix 2 of ourData Processing Addendum(DPA).
+Does xAI support customers with compliance with the GDPR and other privacy laws?
+Does xAI support customers with compliance with the GDPR and other privacy laws?
+Yes, if you submit personal data to our Services, ourData Processing Addendumapplies and is automatically incorporated into ourEnterprise Terms of Service.
+Is xAI HIPAA compliant?
+Is xAI HIPAA compliant?
+Under some circumstances we can support HIPAA workloads; some custom work may be required.
+Does xAI look at or otherwise review business data, such as inputs?
+Does xAI look at or otherwise review business data, such as inputs?
+No, unless you ask us to or otherwise agree to this. xAI may use de-identified data–including metadata from automated content classifiers and safety tools–to better understand how our services are used and to ensure our Terms of Service are not being violated. Such metadata does not contain any of your business data itself.
+For how long is business data retained?
+For how long is business data retained?
+Inputs and outputs are automatically deleted within 30 days, unless (a) otherwise agreed in writing, (b) xAI is legally required to retain them, or (c) they are flagged as potentially violating our Terms of Service or AUP.

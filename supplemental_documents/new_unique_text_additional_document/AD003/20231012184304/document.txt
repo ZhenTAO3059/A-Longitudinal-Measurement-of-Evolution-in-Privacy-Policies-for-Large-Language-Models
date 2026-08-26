@@ -1,0 +1,31 @@
+Enterprise privacy at OpenAI
+Trust and privacy are at the core of our mission at OpenAI. We’re committed to privacy and security for ChatGPT Enterprise and our API Platform.
+Quick links
+Read commitments
+Our commitments
+Ownership: You own and control your dataWe donottrain on your data from ChatGPT Enterprise or our API PlatformYou own your inputs and outputs (where allowed by law)You control how long your data is retained (ChatGPT Enterprise)
+Ownership: You own and control your data
+We donottrain on your data from ChatGPT Enterprise or our API Platform
+We donottrain on your data from ChatGPT Enterprise or our API Platform
+You own your inputs and outputs (where allowed by law)
+You own your inputs and outputs (where allowed by law)
+You control how long your data is retained (ChatGPT Enterprise)
+You control how long your data is retained (ChatGPT Enterprise)
+Control: You decide who has accessEnterprise-level authentication through SAML SSOFine-grained control over access and available featuresCustom modelsare yours alone to use, they are not shared with anyone else
+Control: You decide who has access
+Enterprise-level authentication through SAML SSO
+Enterprise-level authentication through SAML SSO
+Fine-grained control over access and available features
+Fine-grained control over access and available features
+Custom modelsare yours alone to use, they are not shared with anyone else
+Custom modelsare yours alone to use, they are not shared with anyone else
+Security: Comprehensive complianceWe’ve been audited for SOC 2 complianceData encryption at rest (AES-256) and in transit (TLS 1.2+)Visit ourTrust Portalto understand more about our security measures
+Security: Comprehensive compliance
+We’ve been audited for SOC 2 compliance
+We’ve been audited for SOC 2 compliance
+Data encryption at rest (AES-256) and in transit (TLS 1.2+)
+Data encryption at rest (AES-256) and in transit (TLS 1.2+)
+Visit ourTrust Portalto understand more about our security measures
+Visit ourTrust Portalto understand more about our security measures
+Need more help?
+If you have further questions or require assistance, please reach out to our support team via ourHelp Center.

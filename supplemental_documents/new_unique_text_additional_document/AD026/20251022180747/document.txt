@@ -1,0 +1,5 @@
+This article is about our commercial products (e.g. Claude for Work, Claude API). For our consumer products (e.g. Claude Free, Claude Pro), see here .
+While using Claude for Work (Team and Enterprise plans), prompts and conversations in the product are maintained so you can see your conversation history in the product. You can delete your chats to remove them from your visible history.
+We also retain data in our backend systems as described here .
+Read more here about deleting data sent via API.
+Enterprise plan customers can also set custom retention timelines for their organization’s data.

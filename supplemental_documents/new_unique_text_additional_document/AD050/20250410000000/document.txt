@@ -1,0 +1,76 @@
+Announcements
+Welcome to the AI21 Labs’ Trust Center
+Published on Apr 19, 2024
+At AI21 Labs, security and privacy are paramount. We build our solutions with robust, enterprise-grade security measures, allowing you to leverage AI with complete confidence.
+This Trust Center is your one-stop shop for transparency, showcasing our unwavering commitment to compliance and the highest security standards.
+Explore our resources to access certifications, request documentation, and gain a deeper understanding of the comprehensive security controls we employ, including regular penetration testing, a dedicated security team, and optional traceless mode.
+Compliance
+Documentation of our compliance against global standards including certifications, attestations, and audit reports.
+ISO 42001:2023 Certificate
+ISO 270017:2015 Certificate
+ISO 270018:2019 Certificate
+SOC 2 Type II Report 2023-2024
+ISO 27001:2022 Certificate
+Policies
+Encryption Policy
+Asset Management Policy
+Acceptable Use Policy
+Password Policy
+Vulnerability Management Policy
+Continuous monitoring
+App Security
+Access Provisioning
+Authentication Protocol
+Credential Keys Managed
+Log Management System
+Logging/Monitoring
+MFA Available for External Users
+Password Policy
+Require Authentication for Access
+Data Security
+Customer Data Policies
+Customer Data Segregation
+Data Classification
+Data Entry Field Completion Automated
+Data Protection Policy
+Data Retention Policy
+Encryption Policy
+Privacy Policy Includes 3rd Party Vendors
+Infrastructure Security
+Backup Integrity and Completeness
+Backup Policy
+BCDR Plan
+Cloud Infrastructure Linked to Drata
+Critical Change Management
+Data Destruction Policy
+Disaster Recovery Plan
+Physical Security Policy
+Network Security
+Continuous Control Monitoring
+Databases Monitored & Alarmed
+Firewalls
+IDS/IPS Implemented
+Network Diagram
+Responsible Disclosure (Bug Bounty)
+Organization Security
+Annual Risk Assessment
+Cybersecurity Insurance Maintained
+Employee Non-Disclosure Agreement (NDA)
+Formal Recruiting Process
+Incident Response Plan
+Information Security Policy
+Organizational Chart Maintained
+Security Team/Steering Committee
+Product Security
+Application Edits
+Code Changes are Tested
+Encryption at Rest
+Malware Detection Software
+MFA on Accounts
+Regression Testing in Place
+Security Patches Automatically Applied
+Software Development Lifecycle
+Subprocessors
+Topics and common questions
+Privacy details
+Privacy URL

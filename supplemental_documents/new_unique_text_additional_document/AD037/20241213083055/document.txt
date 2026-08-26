@@ -1,0 +1,9 @@
+When a Customer creates a new Claude for Work account (Team or Enterprise plan), the Customer is the "Controller" of the data submitted by its Users. This means:
+The Customer has control over who can be a member of their team and provides us with instructions for how submitted data can be used.
+The Customer has control over who can be a member of their team and provides us with instructions for how submitted data can be used.
+The Customer can access and export data (such as conversation history) submitted by its Users.
+The Customer can access and export data (such as conversation history) submitted by its Users.
+Anthropic acts as a "Processor" of the data on behalf of the Customer. Anthropic only processes the data as instructed by the Customer in order to provide the Claude service. Anthropic does not use the data to train generative models.
+Anthropic acts as a "Processor" of the data on behalf of the Customer. Anthropic only processes the data as instructed by the Customer in order to provide the Claude service. Anthropic does not use the data to train generative models.
+In summary, for Claude for Work, the Customer organization has control over their Users' data in Claude, and Anthropic only processes that data to provide the service on the Customer's behalf, per our agreement with the Customer. We encourage individual Users to check with their organization's administrators regarding use of Claude for work purposes.
+For more details on our data practices, please refer to the Trust Center , our Privacy Policy and the Customer's agreement with Anthropic.

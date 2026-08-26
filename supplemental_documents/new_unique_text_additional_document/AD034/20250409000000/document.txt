@@ -1,0 +1,19 @@
+Learn how to create shareable links to your chats with Claude. While chats are always private by default, you can easily create snapshots of your conversations to share via direct link. This guide walks you through the process of sharing and unsharing chats.
+Sharing Chats
+Sharing Chats
+To share a chat:
+Click the "Share" button in the upper right corner of your chat.
+Click the "Share" button in the upper right corner of your chat.
+Click the "Share" button in the pop out to create a shareable link.
+Click the "Share" button in the pop out to create a shareable link.
+Once a chat has been shared, anyone with the link can view the chat snapshot.
+The chat snapshot includes all messages that were sent prior to sharing the chat, including any artifacts. All messages sent after sharing a chat will remain private by default. However, if you unshare the chat and share it again, the snapshot will be updated to include any new messages.
+Unsharing Chats
+Unsharing Chats
+To unshare a chat:
+Navigate to the "Share" menu.
+Navigate to the "Share" menu.
+Click the visibility dropdown.
+Click the visibility dropdown.
+Change the chat from "Public" to "Private" to disable the direct link.
+Change the chat from "Public" to "Private" to disable the direct link.

@@ -1,0 +1,34 @@
+Additional Terms for Le Chat
+Effective 6 February 2025
+Le Chat is our chat interface that allows you to interact with our Services, including your agents. The features available on Le Chat and the applicable rate limits depend on your subscription plan. The available subscription plans are described on our platform . Your use of Le Chat is subject to our Terms of Service and these Additional Terms for Le Chat.
+1. Using Le Chat
+Permitted Use.
+You, and any of your authorized users, may only use Le Chat for your own personal purposes or your own internal business needs.
+Restrictions.
+You may not integrate or combine Le Chat with Your Offerings or any other software, hardware, or other technology, nor grant any third party access to Le Chat without our prior written authorization.
+Availability of Services on Le Chat.
+Certain Services are available on Le Chat depending on your subscription plan. Subscription plans are detailed on our platform.
+Deactivation of Services.
+You can deactivate certain Services from Le Chat by using the feature available on your account or your workspace.
+Rate Limits.
+Any use of Le Chat or any third party services that may be made available on Le Chat may be subject to the rate limits specified in the applicable documentation or our platform. If you reach these rate limits, your access to or use of Le Chat or the applicable third party service will be temporarily restricted or suspended until the rate limits reset or, if applicable, you subscribe to a subscription plan with a higher rate limit.
+Sharing Conversation Links.
+Le Chat provides you with the ability to share unique links to conversations you have with Le Chat with others (each a “Conversation Link”). Conversations that are viewable via a Conversation Link will not include (a) your Mistral AI username (unless you expressly include it in the conversation), (b) any addition you make to the conversation after sharing it, or (c) any other conversation you may have with Le Chat. Anyone with the Conversation Link will be able to view your conversation, including any person with whom your intended recipient shares the Conversation Link. We do not monitor or control who accesses your conversations via Conversation Links that you create. As such, it is your responsibility to ensure that there is no information you are not comfortable sharing before sharing the Conversation Link, including personal information, confidential information, sensitive business information, or trade secrets.
+Media Customers.
+In this section, “Media Customer” means any entity that disseminates information for editorial purposes on a regular basis and in a professional capacity, whether to the general public or to professionals, even if such activity is conducted by a specific department within the entity and constitutes only a part of its overall business activities. If You are a Media Customer, You are not authorized to use the news feature, such as the AFP news feature, on Le Chat for editorial use, and any use by You of such news feature may be automatically blocked. If you are a Media Customer and wish to use the news feature for editorial purposes, you must contact Mistral AI at legal@mistral.ai . Any unauthorized use of the news feature by a Media Customer will result in the immediate suspension of such Media Customer’s account.
+2. Your Data
+How we use Your Data.
+How we use Your Data depends on your subscription plan:
+(a) If you use our free Services, we use Your Data to provide the Services and to train or improve our models and Services.
+(b) If you are a Le Chat Pro user, we use Your Data to provide the Services and you can opt-out of letting us use Your Data for training at any time in your account settings. If you opt-out, we will not use Your Data to train or improve our models and Services.
+(c) If you use Le Chat Team or Le Chat Enterprise, we only use Your Data to provide the Services and we do not use your data for training unless you opt-in through your account settings.
+Permission to use Your Data.
+You grant us a non-exclusive, worldwide, royalty-free, irrevocable license to use Your Data (a) to provide the Services you signed up for and for the duration of your subscription to Le Chat, and (b) to train or improve our models and Services, for the duration of the applicable intellectual property rights in Your Data, unless (i) you use Le Chat Pro and have opted-out of training or (ii) you use other paid subscriptions such as Le Chat Team or Le Chat Enterprise and have not authorized us to use Your Data for training.
+Permission to Use Your Feedback.
+When you click “Thumbs Up” or “Thumbs Down” to rate an Output Data, your Input, your Output, and the rating you provide constitute your “Feedback”. You grant us a non-exclusive, worldwide, royalty-free, and irrevocable license to use your Feedback to improve our models for the duration of the applicable intellectual property rights in your Feedback. If you do not wish for us to use your Feedback to improve our models, you should not provide us with your Feedback.
+Output restrictions.
+You may not use: (a) image Outputs to develop or train any competing image-generation service and (b) Outputs generated using our web-search feature to (i) copy, store, archive, cache or create a database of the Outputs, (ii) redistribute, resell, or sublicense the Outputs, (iii) as part of any machine learning or similar algorithmic activity, or (iv) to create, train, evaluate or improve Your Offerings.
+Third-Party Content.
+When you use our web-search or news tools on Le Chat, you may receive (a) your Output, and (b) Third-Party Content in the form of additional resources such as hyperlinks, thumbnails, or snippets from third-parties to help you further explore or understand the Output. Such Third-Party Content does not constitute Your Data and you shall have no right to this Third-Party Content, other than viewing and reading it on Le Chat. For clarity, we do not use the Third-Party Content you provide in Your Input
+Moderation.
+We reserve the right to monitor your use of Le Chat through automated means, in accordance with our Usage Policy . This monitoring is conducted to ensure compliance with our terms and policies, and to maintain the security and integrity of our Services.

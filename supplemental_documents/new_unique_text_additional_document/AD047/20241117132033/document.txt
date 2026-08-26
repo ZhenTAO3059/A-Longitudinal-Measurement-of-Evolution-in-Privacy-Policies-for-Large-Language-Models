@@ -1,0 +1,69 @@
+Frequently Asked Questions (Consumer)
+Last updated: October 29, 2024
+Last updated: October 29, 2024
+This page is designed to address questions from individual users. If you’re a business or enterprise customer, please refer to ourEnterprise FAQ.
+Who is xAI?
+Who is xAI?
+X.AI Corp. ("xAI") is a US-based company working on building artificial intelligence tools to accelerate human scientific discovery. We are guided by our mission to advance our collective understanding of the universe. xAI is a separate company from X Corp. ("X", previously Twitter).
+xAI
+X
+What is Grok?
+What is Grok?
+Grok is a conversational generative AI powered by xAI's state-of-the-art large language models. Grok performs natural language processing tasks, including question answering, information retrieval, creative writing, image generation, and coding assistance.
+Grok is designed to answer almost any question with a touch of wit and humor, while providing helpful and insightful responses. Grok also has "regular" and "fun" modes. The "fun" mode has a rebellious streak and incorporates jokes, making it a unique and entertaining companion. We hope you enjoy using Grok to stay informed and entertained.
+Where can I use Grok?
+Where can I use Grok?
+Grok will be made available via an app on your phone (iOS and Android), as well as via a Grok website--keep a lookout for announcements. Paid and limited free access will be available.
+Grok is also available on X for X Premium and Premium+ subscribers. If you use Grok on X, your access is subject to the XTerms of ServiceandPrivacy Policy.
+We also offer services to business and enterprise customers, such as our Enterprise API. Learn more about these serviceshere.
+Can children or minors use Grok?
+Can children or minors use Grok?
+Grok is not meant to be used by children or minors under the age of 18. While we have taken measures to limit undesirable training data and outputs, Grok could produce output that is not appropriate for all ages.
+How does Grok work?
+How does Grok work?
+Grok works by using advanced algorithms to understand and respond to your prompts. When you submit a prompt or search query, Grok interprets your words and other inputs based on natural language processing and patterns from its training data.
+Grok has a unique feature that allows it to search public X posts and perform real-time web searches, allowing it to respond with up-to-date information and insights on a wide range of topics. You can also choose between "regular" and "fun" modes for different conversational styles. Plus, you can help improve Grok by rating its responses.
+Can I see my history of conversations with Grok?
+Can I see my history of conversations with Grok?
+Yes, you can view your past conversations in your account.
+How has Grok been pre-trained?
+How has Grok been pre-trained?
+Grok has primarily been pre-trained on a large corpus of publicly available information, including raw web page data, metadata extracts, and text extracts from the Internet. This data helps Grok learn about associations between words and updates its numbers and weights to support natural language processing. In other words, the training data helps Grok learn about language and how to understand queries and respond to them in ways that humans can comprehend. Importantly, this training does not involve storing the data itself but rather refining the model's internal language structures.
+Before using the training data, we apply quality filters and remove information that we do not want our models to learn from, such as violent content. We also apply security testing and evaluation measures. While Grok's training data may include personal information that is publicly available (for example, information about politicians, celebrities or other public figures), xAI takes steps to minimize the processing of personal and sensitive data for training purposes. For clarity, we do not actively seek out personal information to train our models or use personal information to build individual profiles.
+More information about Grok’s training journey is available on ourwebsite.
+Does Grok make mistakes?
+Does Grok make mistakes?
+Grok may provide inaccurate or inappropriate information. Since Grok has been trained on publicly available information, it can confidently provide misleading or factually incorrect information. It may also reflect positive or negative views of politicians, celebrities, and other public figures. You should carefully consider and verify Grok's responses.
+Do humans view my conversations?
+Do humans view my conversations?
+A limited number of authorized xAI personnel may review your conversations with Grok for specific business purposes, including improving model performance, investigating security incidents and potential misuse of our services, and complying with our legal obligations. For more information, see ourPrivacy Policy.
+How can I use Grok responsibly?
+How can I use Grok responsibly?
+We believe that everyone should be free to use our services in a way that suits their needs, so long as they comply with the law, don't harm themselves or others, and respect our guardrails. When using Grok, you must comply with ourAcceptable Use Policy.
+How does xAI handle my personal information?
+How does xAI handle my personal information?
+For more information about xAI's practices with respect to personal information, please see ourPrivacy Policy.
+Does xAI use my content for model training?
+Does xAI use my content for model training?
+We may use your content and interactions with Grok (e.g., prompts, searches, and other materials you submit) along with Grok's responses to train our models. Specifically, this information helps our models better understand human language and communication and therefore ultimately provide more accurate, relevant, and engaging responses. It also helps boost the capabilities and safety of our models.
+To protect your privacy, please do not share any personal or sensitive information in your questions to Grok.
+When using Grok in Incognito mode, where available, your content and interactions arenotused for model training. Similarly, we don't use content from our business and enterprise customers to improve our models. For more details, please refer to ourEnterprise FAQ.
+not
+How do I opt-out of the use of my content for model training?
+How do I opt-out of the use of my content for model training?
+You can opt-out of training by emailing us atprivacy@x.ai. Once you opt out, new conversations will not be used to train our models. Alternatively, you can use Grok in Incognito mode, where available, which ensures that your content and interactions are not included in model training.
+Please note that, even if you opt out of model training, any feedback that you voluntarily provide may still be used for training purposes.
+If you do not have an xAI account and are using the free version of Grok, where available, we collect and retain your content on an anonymous basis. As a result, you won’t have the option to opt out of model training.
+Does xAI sell my data?
+Does xAI sell my data?
+No. We do not sell your data or share it with third parties for marketing or advertising purposes.
+How long does xAI retain my personal information?
+How long does xAI retain my personal information?
+xAI retains your information for as long as reasonably necessary for the purposes described in ourPrivacy Policy. If you delete conversations from your account, they will be removed from our systems within 30 days, unless they have been de-identified and disassociated from your account or we have to retain them for safety, security or legal reasons.
+How do I submit a data subject rights request?
+How do I submit a data subject rights request?
+Please submit your request toprivacy@x.ai. We will consider all requests that we receive and respond in accordance with applicable data protection laws. Please be aware that, in accordance with applicable laws, some rights are not absolute and we may decline your request if we have a lawful basis for doing so. If you feel we have not adequately addressed your request, you have the right to lodge a complaint with your local data protection authority.
+For more information regarding your data protection and privacy rights, please see ourPrivacy Policy.
+How do I contact xAI?
+How do I contact xAI?
+If you have any questions or need assistance, please don't hesitate to contact us atprivacy@x.ai.

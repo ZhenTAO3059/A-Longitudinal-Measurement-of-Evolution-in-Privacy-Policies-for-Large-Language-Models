@@ -1,0 +1,4 @@
+Dictation allows you to speak your prompt to Claude. Your spoken words are then converted to text, which is used to prompt Claude as if you had typed it out. Learn more about using dictation here .
+After converting your speech input to text, we will delete your audio recording.
+We will not retain a copy of your speech input or use it for training our generative models.
+Learn more about our privacy practices by visiting our Privacy Policy and Privacy Center .

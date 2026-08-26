@@ -1,0 +1,2 @@
+For Claude.ai Consumer Offerings (e.g. Free Claude.ai, Claude Pro plan)
+We will not use your Inputs or Outputs to train our models, unless: (1) your conversations are flagged for Trust & Safety review (in which case we may use or analyze them to improve our ability to detect and enforce our Usage Policy , including training models for use by our Trust and Safety team, consistent with Anthropic’s safety mission), or (2) you’ve explicitly reported the materials to us (for example via our feedback mechanisms), or (3) by otherwise explicitly opting in to training.

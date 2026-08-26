@@ -1,0 +1,28 @@
+Please note, if you are a Claude Pro user, you will need to cancel your Claude Pro subscription and wait until the end of your current subscription period to delete your account.
+From the web version of Claude.ai:
+From the web version of Claude.ai:
+Once you are logged in, click your initials in the upper right and select "Account Settings".
+Once you are logged in, click your initials in the upper right and select "Account Settings".
+From the Account Settings page, select "Account"
+From the Account Settings page, select "Account"
+Click "Delete Account" and follow the prompts. Please note that deleting your account is permanent and you will no longer have access to saved chats.
+Click "Delete Account" and follow the prompts. Please note that deleting your account is permanent and you will no longer have access to saved chats.
+From the Claude app for iOS:
+From the Claude app for iOS:
+Once you are logged in, click your initials in the upper right and select “Account”.
+Once you are logged in, click your initials in the upper right and select “Account”.
+From the Account page, click "Delete Account" and follow the prompts. Please note that deleting your account is permanent and you will no longer have access to saved chats.
+From the Account page, click "Delete Account" and follow the prompts. Please note that deleting your account is permanent and you will no longer have access to saved chats.
+If you’d also like to remove the Claude app from your iOS device, follow the instructions located here .
+If you’d also like to remove the Claude app from your iOS device, follow the instructions located here .
+From Claude for Android:
+From Claude for Android:
+Once you are logged in, click your initials in the upper right and select “Profile”.
+Once you are logged in, click your initials in the upper right and select “Profile”.
+From the following page, click "Delete Account" and follow the prompts. Please note that deleting your account is permanent and you will no longer have access to saved chats.
+From the following page, click "Delete Account" and follow the prompts. Please note that deleting your account is permanent and you will no longer have access to saved chats.
+If you’d also like to remove Claude for Android from your device, follow the instructions located here .
+If you’d also like to remove Claude for Android from your device, follow the instructions located here .
+Third-Party Services
+Third-Party Services
+If you are accessing Claude through a third party service (e.g., Quora’s Poe or Slack), you will need to request account deletion through that third party service provider.

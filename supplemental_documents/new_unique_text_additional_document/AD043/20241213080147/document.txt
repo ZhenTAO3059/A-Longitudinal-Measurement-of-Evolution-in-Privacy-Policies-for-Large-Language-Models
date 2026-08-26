@@ -1,0 +1,17 @@
+As per industry standard, Anthropic uses a variety of data sources for model development, such as publicly available data from the internet gathered via a web crawler. As part of our mission to build safe and reliable frontier systems and advance the field of responsible AI development, we’re sharing the principles by which we collect data as well as instructions on how to opt out of our crawling going forward:
+Our collection of data should be transparent . The User Agent Token ClaudeBot identifies Anthropic’s general-purpose web crawler.
+Our collection of data should be transparent . The User Agent Token ClaudeBot identifies Anthropic’s general-purpose web crawler.
+Our crawling should not be intrusive or disruptive . We aim for minimal disruption by being thoughtful about how quickly we crawl the same domains and respecting Crawl-delay where appropriate.
+Our crawling should not be intrusive or disruptive . We aim for minimal disruption by being thoughtful about how quickly we crawl the same domains and respecting Crawl-delay where appropriate.
+Anthropic’s crawler respects “do not crawl” signals by honoring industry standard directives in robots.txt, including any disallows for Common Crawl’s CCBot User Agent.
+Anthropic’s crawler respects “do not crawl” signals by honoring industry standard directives in robots.txt, including any disallows for Common Crawl’s CCBot User Agent.
+Anthropic’s crawler respects anti-circumvention technologies (e.g., we will not attempt to bypass CAPTCHAs for the sites we crawl.)
+Anthropic’s crawler respects anti-circumvention technologies (e.g., we will not attempt to bypass CAPTCHAs for the sites we crawl.)
+To limit crawling activity, we support the non-standard Crawl-delay extension to robots.txt. An example of this might be:
+User-agent: ClaudeBot
+Crawl-delay: 1
+To block the crawler from your entire website, add this to the robots.txt file in your top-level directory. Please do this for every subdomain that you wish to opt out from.
+User-agent: ClaudeBot
+Disallow: /
+Opting out of being crawled by ClaudeBot requires modifying the robots.txt file in the manner above. Alternate methods like blocking IP address(es) from which ClaudeBot operates may not work correctly or persistently guarantee an opt-out, as doing so impedes our ability to read your robots.txt file. Additionally, we do not currently publish IP ranges, as we use service provider public IPs. This may change in the future.
+You can learn more about our data handling practices and commitments at our Help Center . If you have further questions, or believe that our crawler may be malfunctioning, please reach out to claudebot@anthropic.com . Please reach out from an email that includes the domain you are contacting us about, as it is otherwise difficult to verify reports.

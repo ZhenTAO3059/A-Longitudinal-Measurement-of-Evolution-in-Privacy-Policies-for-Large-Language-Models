@@ -1,0 +1,89 @@
+Enterprise privacy at OpenAI
+Trust and privacy are at the core of our mission at OpenAI. We’re committed to privacy and security for ChatGPT Enterprise and our API Platform.
+Quick links
+Read commitments
+Our commitments
+Ownership: You own and control your data
+We donottrain on your data from ChatGPT Enterprise or our API Platform
+We donottrain on your data from ChatGPT Enterprise or our API Platform
+You own your inputs and outputs (where allowed by law)
+You own your inputs and outputs (where allowed by law)
+You control how long your data is retained (ChatGPT Enterprise)
+You control how long your data is retained (ChatGPT Enterprise)
+Control: You decide who has access
+Enterprise-level authentication through SAML SSO
+Enterprise-level authentication through SAML SSO
+Fine-grained control over access and available features
+Fine-grained control over access and available features
+Custom modelsare yours alone to use, they are not shared with anyone else
+Custom modelsare yours alone to use, they are not shared with anyone else
+Security: Comprehensive compliance
+We’ve been audited for SOC 2 compliance
+We’ve been audited for SOC 2 compliance
+Data encryption at rest (AES-256) and in transit (TLS 1.2+)
+Data encryption at rest (AES-256) and in transit (TLS 1.2+)
+Visit ourTrust Portalto understand more about our security measures
+Visit ourTrust Portalto understand more about our security measures
+General FAQ
+How can I use OpenAI technology in my business?The easiest way to get started with OpenAI is to deploy ChatGPT Enterprise for your employees. It’s simple to use and allows anyone in your organization to be productive with AI. If your engineering teams wish to build custom solutions using our technology, try ourAPI Platform.
+How can I use OpenAI technology in my business?
+The easiest way to get started with OpenAI is to deploy ChatGPT Enterprise for your employees. It’s simple to use and allows anyone in your organization to be productive with AI. If your engineering teams wish to build custom solutions using our technology, try ourAPI Platform.
+Does OpenAI train its models on my business data?No. We do not use your ChatGPT Enterprise or API data, inputs, and outputs for training our models.
+Does OpenAI train its models on my business data?
+No. We do not use your ChatGPT Enterprise or API data, inputs, and outputs for training our models.
+What if I use OpenAI to fine-tune my own model?You can adapt certain models to specific tasks by fine-tuning them with your own prompt-completion pairs. Your fine-tuned model is yours alone to use and is not served to or shared with other customers or used to train other models. Data submitted to fine-tune a model is retained until the customer deletes the file. Learn more aboutfine-tuning.
+What if I use OpenAI to fine-tune my own model?
+You can adapt certain models to specific tasks by fine-tuning them with your own prompt-completion pairs. Your fine-tuned model is yours alone to use and is not served to or shared with other customers or used to train other models. Data submitted to fine-tune a model is retained until the customer deletes the file. Learn more aboutfine-tuning.
+Who owns inputs and outputs?You retain all rights to the inputs you provide to our services. You also own any output you rightfully receive from the services to the extent permitted by law. We only receive rights in input and output necessary to provide you with our services, comply with applicable law, and enforce our policies.
+Who owns inputs and outputs?
+You retain all rights to the inputs you provide to our services. You also own any output you rightfully receive from the services to the extent permitted by law. We only receive rights in input and output necessary to provide you with our services, comply with applicable law, and enforce our policies.
+How does OpenAI ensure data security?OpenAI encrypts all data at rest (AES-256) and in transit (TLS 1.2+), and uses strict access controls to limit who can access data. Our security team has an on-call rotation that has 24/7/365 coverage and is paged in case of any potential security incident. We offer aBug Bounty Programfor responsible disclosure of vulnerabilities discovered on our platform and products. Please visit ourTrust Portalfor more details.
+How does OpenAI ensure data security?
+OpenAI encrypts all data at rest (AES-256) and in transit (TLS 1.2+), and uses strict access controls to limit who can access data. Our security team has an on-call rotation that has 24/7/365 coverage and is paged in case of any potential security incident. We offer aBug Bounty Programfor responsible disclosure of vulnerabilities discovered on our platform and products. Please visit ourTrust Portalfor more details.
+Can OpenAI support my compliance with GDPR and other privacy laws?Yes, we are able to execute a Data Processing Addendum (DPA) with customers for their use of ChatGPT Enterprise and the API in support of their compliance with GDPR and other privacy laws. Please complete ourDPA formto execute a DPA with OpenAI.
+Can OpenAI support my compliance with GDPR and other privacy laws?
+Yes, we are able to execute a Data Processing Addendum (DPA) with customers for their use of ChatGPT Enterprise and the API in support of their compliance with GDPR and other privacy laws. Please complete ourDPA formto execute a DPA with OpenAI.
+Does OpenAI review my business data for platform abuse?We may run any business data submitted to OpenAI’s services through automated content classifiers.  Classifiers are metadata about business data but do not contain any business data itself. Business data is only subject to human review as described below on a service-by-service basis.
+Does OpenAI review my business data for platform abuse?
+We may run any business data submitted to OpenAI’s services through automated content classifiers.  Classifiers are metadata about business data but do not contain any business data itself. Business data is only subject to human review as described below on a service-by-service basis.
+ChatGPT Enterprise FAQ
+What is ChatGPT Enterprise?Built for businesses, ChatGPT Enterprise offers organizations the ability to use ChatGPT with controls, deployment tools, and speed required to make your entire organization more productive. Learn more aboutChatGPT Enterprise.
+What is ChatGPT Enterprise?
+Built for businesses, ChatGPT Enterprise offers organizations the ability to use ChatGPT with controls, deployment tools, and speed required to make your entire organization more productive. Learn more aboutChatGPT Enterprise.
+Who can view conversations and chat history in ChatGPT Enterprise?Within your organization, only end users can view their conversations. Workspace admins have control over workspaces and access. ​​Authorized OpenAI employees will only ever access your data for the purposes of resolving incidents, recovering end user conversations with your explicit permission, or where required by applicable law.
+Who can view conversations and chat history in ChatGPT Enterprise?
+Within your organization, only end users can view their conversations. Workspace admins have control over workspaces and access. ​​Authorized OpenAI employees will only ever access your data for the purposes of resolving incidents, recovering end user conversations with your explicit permission, or where required by applicable law.
+What compliance standards does ChatGPT Enterprise meet?ChatGPT Enterprise has been audited for SOC 2 Type 1 compliance (Type 2 coming soon). Read more in ourTrust Portal.
+What compliance standards does ChatGPT Enterprise meet?
+ChatGPT Enterprise has been audited for SOC 2 Type 1 compliance (Type 2 coming soon). Read more in ourTrust Portal.
+What is OpenAI’s policy on data retention for ChatGPT Enterprise?ChatGPT Enterprise securely retains data to enable features like conversation history. You control how long your data is retained. Any deleted conversations are removed from our systems within 30 days. Note that shorter retention periods may compromise product experience.
+What is OpenAI’s policy on data retention for ChatGPT Enterprise?
+ChatGPT Enterprise securely retains data to enable features like conversation history. You control how long your data is retained. Any deleted conversations are removed from our systems within 30 days. Note that shorter retention periods may compromise product experience.
+API Platform FAQ
+What is the API Platform?The OpenAI API Platform gives developers access to powerful models like GPT-4 and GPT-3.5 Turbo. You can create various applications and services, including fine-tuning models for specific tasks. Find more information in ourPlatform Docs.
+What is the API Platform?
+The OpenAI API Platform gives developers access to powerful models like GPT-4 and GPT-3.5 Turbo. You can create various applications and services, including fine-tuning models for specific tasks. Find more information in ourPlatform Docs.
+What compliance standards does OpenAI’s API Platform adhere to?Our API Platform has been audited for SOC 2 Type 2 compliance. Read more in ourTrust Portal.
+What compliance standards does OpenAI’s API Platform adhere to?
+Our API Platform has been audited for SOC 2 Type 2 compliance. Read more in ourTrust Portal.
+Can the API Platform be used with protected health information?We are able to sign Business Associate Agreements (BAA) in support of customers’ compliance with the Health Insurance Portability and Accountability Act (HIPAA). Pleasereach outif you require a BAA.
+Can the API Platform be used with protected health information?
+We are able to sign Business Associate Agreements (BAA) in support of customers’ compliance with the Health Insurance Portability and Accountability Act (HIPAA). Pleasereach outif you require a BAA.
+Can I fine-tune OpenAI models using my own data?Yes, you can adapt certain models to specific tasks by fine-tuning them with your own prompt-completion pairs. Your fine-tuned models are for your use alone and never served to or shared with other customers or used to train other models. Data submitted to fine-tune a model is retained until the customer deletes the files.
+Can I fine-tune OpenAI models using my own data?
+Yes, you can adapt certain models to specific tasks by fine-tuning them with your own prompt-completion pairs. Your fine-tuned models are for your use alone and never served to or shared with other customers or used to train other models. Data submitted to fine-tune a model is retained until the customer deletes the files.
+How does OpenAI handle data retention and monitoring for API usage?OpenAI may securely retain API inputs and outputs for up to 30 days to identify abuse. You can also request zero data retention (ZDR) for eligible endpoints if you have a qualifying use-case. For details on data handling, visit ourPlatform Docspage.
+How does OpenAI handle data retention and monitoring for API usage?
+OpenAI may securely retain API inputs and outputs for up to 30 days to identify abuse. You can also request zero data retention (ZDR) for eligible endpoints if you have a qualifying use-case. For details on data handling, visit ourPlatform Docspage.
+Who can view stored API inputs, outputs, and fine-tuning data?Access to API business data stored on our systems is limited to (1) authorized employees that require access for engineering support, investigating potential platform abuse, and legal compliance and (2) specialized third-party contractors who are bound by confidentiality and security obligations, solely to review for abuse and misuse.
+Who can view stored API inputs, outputs, and fine-tuning data?
+Access to API business data stored on our systems is limited to (1) authorized employees that require access for engineering support, investigating potential platform abuse, and legal compliance and (2) specialized third-party contractors who are bound by confidentiality and security obligations, solely to review for abuse and misuse.
+Model training FAQ
+How does OpenAI train its models?OpenAI trains its models in two stages. First, we learn from a large amount of data. Then, we use data from ChatGPT users and human trainers to make sure the outputs are safe and accurate and to improve their general capabilities.Learn more about our training process.
+How does OpenAI train its models?
+OpenAI trains its models in two stages. First, we learn from a large amount of data. Then, we use data from ChatGPT users and human trainers to make sure the outputs are safe and accurate and to improve their general capabilities.Learn more about our training process.
+What sources of data are used for training OpenAI models?OpenAI uses data from different places including public sources, licensed third-party data, and information created by human reviewers. We also use data from versions of ChatGPT and DALL-E for individuals. Data from ChatGPT Enterprise and the API Platform (after March 1, 2023) isn't used for training our models.
+What sources of data are used for training OpenAI models?
+OpenAI uses data from different places including public sources, licensed third-party data, and information created by human reviewers. We also use data from versions of ChatGPT and DALL-E for individuals. Data from ChatGPT Enterprise and the API Platform (after March 1, 2023) isn't used for training our models.
+Need more help?
+If you have further questions or require assistance, please reach out to our support team via ourHelp Center.

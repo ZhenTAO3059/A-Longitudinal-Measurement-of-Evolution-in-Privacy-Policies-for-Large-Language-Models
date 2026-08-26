@@ -1,0 +1,3 @@
+When you send us feedback, we will store the entire related conversation (all inputs and outputs, including any custom styles or conversation preferences) in our secured back-end for up to 10 years as part of your feedback.
+We disassociate your user ID from feedback you submit. We may use your feedback to analyze the effectiveness of our Services, conduct research, study user behavior, and train our AI models as permitted under applicable laws. We do not combine your feedback with your other conversations with Claude.
+Here’s an example of what you’ll see when using the thumbs up/thumbs down icons to start a feedback report:

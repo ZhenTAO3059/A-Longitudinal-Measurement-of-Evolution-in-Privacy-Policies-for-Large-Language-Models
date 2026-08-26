@@ -1,0 +1,6 @@
+While using Claude for Work, prompts and conversations in the product are maintained so you can see your conversation history in the product. You can delete your chats to remove them from your visible history.
+We also retain data in our backend systems for the amount of time specified in our Privacy Policy unless required to enforce our Usage Policy , address Terms of Service or policy violations, or as required by law.
+Please note: Your organization may have separate controls in place based on its own data retention policies. Check with your plan’s Primary Owner for additional guidance.
+Please note:
+If you are a Primary Owner of a Claude for Work plan, you can also choose to delete your account .
+For more information on data retention and deletion, see our Trust Center and Privacy Policy .

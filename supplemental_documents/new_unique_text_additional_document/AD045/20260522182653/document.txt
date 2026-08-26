@@ -1,0 +1,14 @@
+Trust & Security
+Security at xAI
+Data privacy and security are fundamental to our mission. We prioritize the responsible management of data and the trust our users place in our technology.
+Robust security
+Industry-leading safeguards to protect your data from unauthorized access, use, or disclosure.
+Industry standards
+Compliance with relevant data privacy regulations and adherence to industry best practices.
+Transparency
+Clear, accessible information about our data handling practices and policies.
+In depth
+Security practices
+Explore our security measures across product, data, infrastructure, and corporate domains.
+Report a Vulnerability
+Contact the xAI security team through our HackerOne program or email vulnerabilities@x.ai with the subject line “Responsible Disclosure.”

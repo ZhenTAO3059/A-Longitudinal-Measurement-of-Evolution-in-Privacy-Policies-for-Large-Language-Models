@@ -1,0 +1,4 @@
+For Anthropic Commercial Offerings (e.g. Anthropic API & Console, Claude for Work (Team & Enterprise plans))
+By default, we will not use your Inputs or Outputs to train our models.
+If you explicitly report materials to us (for example via our feedback mechanisms), or by otherwise explicitly opting in to training, then we may use those materials to train our models.
+To find out more information regarding your use of an Anthropic commercial offering, or if you would like to know how to contact us regarding a privacy related topic, see our Trust Center and Commercial Terms .

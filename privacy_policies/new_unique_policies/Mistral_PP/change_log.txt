@@ -1,0 +1,17 @@
+Found 14 exact-text retained policy capture(s).
+Found 8 distinct stated effective/update date(s).
+
+Timestamp 20240226232158 => 
+Timestamp 20240417183144 => 
+Timestamp 20240529184203 => 
+Timestamp 20240720193107 => 
+Timestamp 20240917181203 => 
+Timestamp 20241214124353 => 
+Timestamp 20250221130852 => Effective 6 February 2025
+Timestamp 20250226080729 => Effective 6 February 2025
+Timestamp 20250527000000 => Effective 27 May 2025
+Timestamp 20251128000000 => Effective 28. November 2025
+Timestamp 20260101000000 => Effective 1 January 2026
+Timestamp 20260402000000 => Effective 2 April 2026
+Timestamp 20260408000000 => Effective 8 April 2026
+Timestamp 20260727000000 => Effective 27 July 2026

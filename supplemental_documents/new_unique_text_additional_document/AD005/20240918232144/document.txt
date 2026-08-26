@@ -1,0 +1,11 @@
+One of the most useful and promising features of AI models is that they can improve over time. We continuously improve our models through research breakthroughs as well as exposure to real-world problems and data. When you share your content with us, it helps our models become more accurate and better at solving your specific problems and it also helps improve their general capabilities and safety. We don’t use your content to market our services or create advertising profiles of you—we use it to make our models more helpful. ChatGPT, for instance, improves by further training on the conversations people have with it, unless youopt out.
+Services for individuals, such as ChatGPT and DALL•E
+When you use our services for individuals such as ChatGPT or DALL•E, we may use your content to train our models.
+You can opt out of training through ourprivacy portalby clicking on “do not train on my content,” or to turn off training for your ChatGPT conversations, follow the instructions in ourData Controls FAQ. Once you opt out, new conversations will not be used to train our models.
+You can also use Temporary Chat from the dropdown in ChatGPT. Chats from Temporary Chat won't appear in history, use or create memories, or be used to train our models.
+Services for businesses, such as ChatGPT Team, ChatGPT Enterprise, and our API Platform
+By default, we do not train on any inputs or outputs from our products for business users, including ChatGPT Team, ChatGPT Enterprise, and the API. We offer API customers a way to opt-in to share data with us, such as byproviding feedback in the Playground, which we then use to improve our models. Unless they explicitly opt-in, organizations are opted out of data-sharing by default.
+Please see ourEnterprise Privacy pagefor information on how we handle business data.
+What the process looks like
+We retain certain data from your interactions with us, but we take steps to reduce the amount of personal information in our training datasets before they are used to improve and train our models. This data helps us better understand user needs and preferences, allowing our model to become more efficient over time.
+For more on how we handle data, please see ourPrivacy Policy,Terms of Use, andEnterprise Privacy page.

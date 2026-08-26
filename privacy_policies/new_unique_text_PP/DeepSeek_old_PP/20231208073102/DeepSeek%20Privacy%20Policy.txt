@@ -1,0 +1,325 @@
+DeepSeek Privacy Policy
+The "DeepSeek Privacy Policy" (hereinafter referred to as "this Policy") is applicable only to the artificial intelligence technology services provided by Beijing DeepSeek Artificial Intelligence Co., Ltd., Hangzhou DeepSeek Artificial Intelligence Co., Ltd., and its affiliated companies (hereinafter referred to as "we" or "DeepSeek"). Before using this product, please read this Policy carefully to understand the details of how we handle your personal information. Important content related to sensitive personal information and your personal information rights has been highlighted in bold; please pay special attention.If you disagree with any content of this Policy or cannot accurately understand our interpretation of the terms of this Policy, please click disagree or stop using this Service. Otherwise, it indicates that you have accepted all terms described in this Policy and its applicable conditions and agree to be bound by this Policy.
+The "DeepSeek Privacy Policy" (hereinafter referred to as "this Policy") is applicable only to the artificial intelligence technology services provided by Beijing DeepSeek Artificial Intelligence Co., Ltd., Hangzhou DeepSeek Artificial Intelligence Co., Ltd., and its affiliated companies (hereinafter referred to as "we" or "DeepSeek"). Before using this product, please read this Policy carefully to understand the details of how we handle your personal information. Important content related to sensitive personal information and your personal information rights has been highlighted in bold; please pay special attention.
+If you disagree with any content of this Policy or cannot accurately understand our interpretation of the terms of this Policy, please click disagree or stop using this Service. Otherwise, it indicates that you have accepted all terms described in this Policy and its applicable conditions and agree to be bound by this Policy.
+This Policy will help you understand the following:
+I.    Definitions and Explanations
+II.    How We Collect and Use Your Personal Information
+III.   How We Use Cookies and Similar Technologies
+IV.   How We Entrust, Share, Transfer, and Publicly Disclose Your Personal Information
+V.   How We Protect Your Personal Information
+VI.   How We Store Your Personal Information
+VII.  How You Can Manage Your Personal Information Rights
+VIII. How We Protect the Personal Information of Minors
+IX.   How We Update This Policy
+X.    How to Contact Us
+XI.   Others
+I.Definitions and Explanations
+I.
+Definitions and Explanations
+1.DeepSeek Website Products and/or Services
+1.
+DeepSeek Website Products and/or Services
+Including products and/or services provided by the DeepSeek website (https://chat.deepseek.com/).
+2.DeepSeek Website Services
+2.
+DeepSeek Website Services
+Refers to the artificial intelligence technology services provided by DeepSeek, the operator of DeepSeek, hereinafter referred to as "this Service."
+3.User
+3.
+User
+Refers to users who register, log in, and use this product, and enable, browse, or upload data to the DeepSeek service, hereinafter referred to as "you."
+4.Account
+4.
+Account
+Refers to the user account you have after completing the real-information registration, which you are responsible for safekeeping; you shall bear legal responsibility for all actions under your account.
+5.Personal Information
+5.
+Personal Information
+Personal information refers to various information related to identified or identifiable natural persons recorded electronically or by other means, excluding anonymized information. For clarification, personal information includes but is not limited to sensitive personal information.
+6.Sensitive Personal Information
+6.
+Sensitive Personal Information
+Sensitive personal information refers to personal information that, once leaked or illegally used, can easily harm the dignity, physical integrity, or property safety of natural persons, including biometric, religious beliefs, specific identities, medical health, financial accounts, whereabouts, and the personal information of minors under fourteen years old.
+7.Personal Information Processing
+7.
+Personal Information Processing
+Personal information processing includes the collection, storage, use, processing, transmission, provision, disclosure, and deletion of personal information, etc.
+8.Personal Information Processor
+8.
+Personal Information Processor
+The personal information processor refers to organizations or individuals who independently determine the purposes and means of processing during personal information processing activities.
+9.Personal Information Subject
+9.
+Personal Information Subject
+The personal information subject refers to the natural person identified or associated with personal information.
+10.Automated Decision-Making
+10.
+Automated Decision-Making
+Automated decision-making refers to activities that automatically analyze and evaluate an individual’s behavior habits, interests, or economic, health, credit status, etc., through computer programs and make decisions.
+11.De-Identification
+11.
+De-Identification
+De-identification refers to the process of processing personal information so that it cannot identify a specific natural person without the aid of additional information.
+12.Anonymization
+12.
+Anonymization
+Anonymization refers to the process of processing personal information so that it cannot identify a specific natural person and cannot be restored.
+13.Device
+13.
+Device
+Devices refer to equipment that can be used to access DeepSeek services, such as desktop computers, laptops, tablets, or smartphones.
+14.IP Address
+14.
+IP Address
+Each device connected to the internet is assigned a number, known as the Internet Protocol (IP) address. These numbers are usually assigned based on geographic locations. IP addresses are commonly used to identify the location of a device when it connects to the internet.
+15.SSL
+15.
+SSL
+SSL (Secure Socket Layer), also known as the secure socket layer, is a security protocol implemented on the transmission communication protocol (TCP/IP). SSL supports various types of networks while providing three basic security services, all achieved through the use of public key and symmetric key technologies to ensure information confidentiality.
+16.Information Collection Technologies
+16.
+Information Collection Technologies
+In this Policy, DeepSeek's "automatic collection" includes the following methods:
+1) Cookie: A cookie is a text file placed on the client (your computer, mobile phone, or other smart terminals) by the website server when you browse web pages, which is used to improve your user experience.
+2) Log Files: Log files store several automatically collected data. Such data includes the Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), login/logout pages, operating system, date/time stamp, and clickstream data, etc.
+3) ET Tag: ET Tag is an HTTP protocol header sent behind the scenes between the internet browser and the internet server, which may replace cookies and is used to track individual users, enabling us to understand and improve our services.
+4) JavaScript: JavaScript is a programming language used to create more interactive and dynamic web pages. JavaScript can set, read, and delete cookies.
+II.How We Collect and Use Your Personal Information
+II.
+How We Collect and Use Your Personal Information
+DeepSeek, as the processor of personal information, adheres to the principles of legality, fairness, necessity, and integrity. We collect and use your personal information for the purposes described below.
+1.Personal information that youactively provided for us during the use of our products or services
+1.
+Personal information that you
+actively provided for us during the use of our products or services
+The basic functionalities of DeepSeek include intelligent dialogue. In addition, to provide you with other services such as viewing Q&A history and giving feedback, you only need to provide the necessary basic personal information corresponding to these features, except for special requirements of relevant laws and regulations. If you refuse to provide such information, we will not be able to offer you the corresponding services. Please note: if you provide someone else’s personal information, please ensure you have the consent of the subject.The full functions of DeepSeek and details of the personal information required to be processed are set out below:
+The basic functionalities of DeepSeek include intelligent dialogue. In addition, to provide you with other services such as viewing Q&A history and giving feedback, you only need to provide the necessary basic personal information corresponding to these features, except for special requirements of relevant laws and regulations. If you refuse to provide such information, we will not be able to offer you the corresponding services. Please note: if you provide someone else’s personal information, please ensure you have the consent of the subject.
+The full functions of DeepSeek and details of the personal information required to be processed are set out below:
+1.1 Account registration/login
+1.1 Account registration/login
+To secure the usage of your personal space, you need to register and log in to use relevant services normally. During registration and login, you are required to provide your email or Google account and set a login password, verifying your user identity by entering a verification code.
+1.2 Intelligent dialogue
+1.2 Intelligent dialogue
+When you use the intelligent dialogue feature, we collect the text dialogue information that you input during your interaction with DeepSeek. We analyze and process this information to better understand your questions and the context, thereby providing you with more relevant information content, for the purpose of offering intelligent dialogue services. This information is used to output content to you and enhance the responsiveness and quality of DeepSeek.
+During the course of the dialog, you can provide feedback to rate the content output by DeepSeek. We will collect your feedback, including your unsolicited submissions, in order to continually improve the quality of DeepSeek's output. If you object to our collection and processing of the foregoing personal information, please be careful about entering the foregoing information, as a result, it may affect your normal use of some or all of the features provided by DeepSeek.
+1.3 Question and answer history
+1.3 Question and answer history
+We collect your Q&A history, including text dialogue and topics generated from the dialogue, ensuring a continuous and high-quality user experience, when you use this Service. You can find and manage your undeleted Q&A history. In order to fulfill our online information security obligations, we will retain your Q&A history and conversation threads for the period of time required by law.
+1.4 Feedback
+1.4 Feedback
+When you use the feedback function service, we will collect your problem description, supporting documentation attachments, phone number, email, and contact person's name to understand the content and needs of your feedback. This information is necessary for the feedback function service. To verify your identity, clarify your needs and the handling of related issues, or help you solve other problems, we may use your phone number or email. To provide you feedback services related to your usage information, we will query your usage information, including but not limited to, intelligent dialogue records, like records, problem feedback records, etc.
+If you contact us directly in the manner described in Article 10 of this Policy, providing feedback, complaints, appeals, or consultation about DeepSeek services related issues, you need to provide your account information to ensure the security of your account and the system. This information is necessary for identity verification in user feedback. During feedback, complaints, or consultation processes, you may need to provide corresponding proof materials, and the system might record communications between us to better assist with your inquiries and improve service quality. If you do not provide the above information, we might not be able to feedback the results of your consultation promptly, but it will not affect your normal use of DeepSeek or services.
+2.Personal information we actively collect from you during the provision of products and/or services
+2.
+Personal information we actively collect from you during the provision of products and/or services
+Under legal premises, to ensure the security of your account and provide you with better services, we will collect and use the following information generated during your use of DeepSeek website services:
+2.1 Problem Troubleshooting and Security Maintenance
+2.1 Problem Troubleshooting and Security Maintenance
+When using DeepSeek website services, based on specific permissions in product usage, we may receive and record related device information to troubleshoot and ensure the security of your account and usage. Necessary information includesBrowser information (browser type, plug-ins, language, fonts, cache under the domain name), operating terminal information (operating system, locale, communication provider).
+Browser information (browser type, plug-ins, language, fonts, cache under the domain name), operating terminal information (operating system, locale, communication provider)
+2.2 Operational Statistics and Analysis
+2.2 Operational Statistics and Analysis
+When you use DeepSeek website services, we will automatically collect details of your use of DeepSeek website services and save them as web logs, and the necessary information includesusage, IP address, URL of the service accessed, type of browser and language used, date and time of accessing the service, duration information, browsing information (browsing records, download records and click records), so that we can count the usage of DeepSeek services, troubleshoot problems, ensure service stability and network security, and carry out operational analysis, improvement and optimization of services through statistical data.
+usage, IP address, URL of the service accessed, type of browser and language used, date and time of accessing the service, duration information, browsing information (browsing records, download records and click records)
+3.Personal Information Processing Description
+3.
+Personal Information Processing Description
+(1) To enhance the security of our products and services, we might use your information for identity verification, customer services, security protection, and fraud monitoring, preventing harmful or illegal activities against our agreements, policies, and rules, protecting the legal rights of users, DeepSeek website, and the public.
+(2) According to applicable laws and regulations, we might process your personal information technically to prevent accurate identification and use it anonymously for academic research or statistical analysis to improve algorithm models, service intelligence, and understanding of your input content, but we won’t identify you personally based on the dialogue content you enter.
+(3) According to relevant legal regulations, processing your personal information in the following situations doesn’t require your consent:
+Necessary for contracts where individuals are parties, or for human resources management based on legal labor regulations and collective contracts.
+Necessary to fulfill legal responsibilities or duties.
+Necessary to respond to public health emergencies or protect individuals' life, health, and property in emergencies.
+Handling personal information within a reasonable range for public interest, news reporting, or public opinion supervision.
+Handling publicly available personal information according to legal provisions.
+Other circumstances stipulated by laws and administrative regulations.
+(4) The information you provide during registration shouldn’t contain content violating laws, regulations, related to politics or infringing others’ legal rights：
+Opposing the fundamental principles established by the constitution;
+Endangering national security, leaking state secrets, subverting state power, and undermining national unity;
+Damaging the honor and interests of the nation;
+Distorting, vilifying, defiling, or denying the deeds and spirits of heroes and martyrs, and infringing upon the names, portraits, reputations, and honors of heroes and martyrs through insult, defamation, or other means;
+Advocating terrorism, extremism, or inciting the implementation of terrorist activities and extremist activities;
+Inciting ethnic hatred and discrimination, and undermining ethnic unity;
+Undermining national religious policies, advocating cults and feudal superstitions;
+Spreading rumors, disrupting economic and social order;
+Disseminating obscenity, pornography, gambling, violence, murder, terror, or instigating crimes;
+Insulting or slandering others, infringing upon others' reputation, privacy, and other lawful rights and interests;
+Containing false, harmful, coercive, privacy-infringing, harassing, abusive, defamatory, vulgar, obscene, or other morally objectionable content;
+Content restricted or prohibited by Chinese laws, regulations, rules, ordinances, and any other norms with legal effect.
+III.How We Use Cookies and Similar Technologies
+III.
+How We Use Cookies and Similar Technologies
+1.Use of Cookie Technology
+1.
+Use of Cookie Technology
+We collect and use your information through cookies and store this information as log information. We use our cookies with the goal of providing you with a more personalized user experience and service, and for the following purposes:
+(1) Remember your identity. For example, cookies help us recognize you as our registered user, or save the preferences or other information that you have provided to us.
+(2) Analyze your use of our services. For example, we can use cookies to understand what activities you have carried out using our services, or which pages or services are your favorite. While using cookies for the above purposes, we may provide non-personally identifiable information collected through cookies, after statistical processing, to partners to analyze how users use our services.
+2.Use of Similar Cookie Technologies
+2.
+Use of Similar Cookie Technologies
+We will use similar technologies to cookies, including web beacons and pixel tags. We use these similar technologies to understand your product or service preferences and improve customer service.
+You can refuse or manage cookies and similar technologies through browser settings. Specifically, you can set according to the ways described in Chapter Seven of this Policy. Please note that if you disable cookies or similar technologies, you may not enjoy the best service experience, and some services may not work properly.
+You can refuse or manage cookies and similar technologies through browser settings. Specifically, you can set according to the ways described in Chapter Seven of this Policy. Please note that if you disable cookies or similar technologies, you may not enjoy the best service experience, and some services may not work properly.
+IV.How We Entrust, Share, Transfer, and Publicly Disclose Your Personal Information
+IV.
+How We Entrust, Share, Transfer, and Publicly Disclose Your Personal Information
+1.Delegated Processing
+1.
+Delegated Processing
+To provide you with better and more quality products and services, we may delegate some of your personal information to third parties (including companies, organizations, and individuals). For third parties entrusted with processing your personal information, we will sign strict data processing agreements, clearly stipulating the purpose, duration, processing methods, types of personal information, protection measures, and the rights and obligations of both parties, and supervise the personal information processing activities of the third parties, requiring them to process your personal information solely according to our requirements, the provisions of this Policy, and other relevant confidentiality and security measures. Refusing the collection of necessary personal information by our third parties when providing services may result in the inability to enjoy the services provided by the third party during the use of DeepSeek or services.
+2.Sharing
+2.
+Sharing
+We will not share your personal information with third parties (including companies, organizations, and individuals), except in the following cases:
+(1) Sharing with explicit consent: With your explicit consent, we will share your personal information with third parties.
+(2) Sharing under legal circumstances: We may share your personal information with third parties according to legal regulations, the needs of litigation dispute resolution, or as required by administrative and judicial authorities according to the law.
+3.Transfer
+3.
+Transfer
+We will not transfer your personal information to any third party (including companies, organizations, and individuals), except in the following cases:
+(1) Transfer with explicit consent;
+(2) Transfer as required by applicable laws, legal processes, mandatory administrative or judicial requirements;
+(3) In the event of a merger, acquisition, or bankruptcy liquidation of this product service provider, or other situations involving merger, acquisition, or bankruptcy liquidation. If it involves the transfer of personal information, we will inform you of the name and contact information of the recipient, and require the new holder of your personal information to continue to be bound by this Policy. For changes in the original processing purposes and methods by the recipient, we will require the recipient to seek authorization and consent again.
+4.Public Disclosure
+4.
+Public Disclosure
+We will only publicly disclose your personal information in the following circumstances:
+(1) Public disclosure with individual consent or based on your active choice, we may publicly disclose your personal information;
+(2) In the case of legal, legal processes, litigation, or mandatory requirements of government authorities, we may publicly disclose your personal information.
+(3) If we determine that you have violated laws and regulations or seriously violated the rules of this product, or to protect the personal and property safety of the users of this product and its affiliated companies or the public from harm, we may disclose your personal information in accordance with laws and regulations or the rules of this product, including relevant violations and measures taken by this product.
+5.Exceptions to Obtaining Authorized Consent in Advance for the Delegation, Sharing, Transfer, and Public Disclosure of Personal Information
+5.
+Exceptions to Obtaining Authorized Consent in Advance for the Delegation, Sharing, Transfer, and Public Disclosure of Personal Information
+In the following circumstances, the entrusted processing, sharing, transferring, and public disclosure of your personal information do not need to obtain your authorized consent in advance:
+(1) Related to our fulfillment of legal obligations;
+(2) Directly related to national security and national defense security;
+(3) Directly related to public safety, public health, and major public interests;
+(4) Directly related to criminal investigation, prosecution, trial, and judgment enforcement;
+(5) For the maintenance of significant legal rights and interests such as the life and property of you or other individuals, but it is difficult to obtain personal consent;
+(6) Personal information that you disclose to the public;
+(7) Collecting personal information from legally publicly disclosed information, such as legal news reports and government information disclosure.
+Please note: According to legal regulations, the entrusted processing, sharing, transferring, and public disclosure of anonymized personal information is not considered external entrusted processing, sharing, transferring, and public disclosure of personal information, and the preservation and processing of such data do not require additional notification and consent.
+V.How We Protect Your Personal Information
+V.
+How We Protect Your Personal Information
+1.Privacy and Personal Information Protection of Users
+1.
+Privacy and Personal Information Protection of Users
+We highly value the privacy and protection of users' personal information, and will take reasonable measures to protect users' personal information. Apart from the conditions stipulated by laws and regulations or agreed in this Policy, we will apply various security technologies and procedures to establish a comprehensive management system to protect your personal information from unauthorized access, use, or disclosure. Without the user's permission, we will not disclose the user's personal information to third parties. We will encrypt and securely store and transmit relevant information, ensuring the safety of users' personal information.
+2.Data Security Measures
+2.
+Data Security Measures
+(1) We have adopted security protection measures that conform to industry standards, including establishing reasonable system norms and security technology to prevent unauthorized access, use, modification of your personal information, and to avoid data damage or loss.
+(2) We have taken all reasonably feasible measures to ensure that irrelevant personal information is not collected. We will retain your personal information only for the period necessary to achieve the purposes described in this Policy, unless an extension is necessary or permitted by law.
+(3) The internet is not an absolutely secure environment, and emails, instant messaging, and communication with other users are not encrypted. We strongly suggest that you do not send personal information through such means. Please use complex passwords to help us ensure the security of your account.
+(4) In the unfortunate event of a personal information security incident, we will inform you promptly in accordance with legal requirements: the reasons for the security incident, potential harm, types of personal information involved, measures we have taken or will take, advice on how you can prevent and reduce risks, and measures you can take. We will promptly inform you of the situation related to the incident by e-mail, SMS, telephone, sending notification, etc. When it is difficult to inform the subject of personal information one by one, we will take a reasonable and effective way to make a public announcement. At the same time, we will also take the initiative to report the handling of personal information security incidents in accordance with the requirements of the regulatory authorities. Please know that, according to applicable laws and regulations, we may not notify you if the measures taken can effectively avoid the harm caused by the leakage, tampering or loss of information.
+VI.How We Store Your Personal Information
+VI.
+How We Store Your Personal Information
+1.Storage Location of Information
+1.
+Storage Location of Information
+DeepSeek complies with the provisions of laws and regulations. The information collected about you will be stored on DeepSeek servers in mainland China, except in the following circumstances:
+• Explicit provisions of laws and regulations;
+• With your explicit authorization;
+• Your personal initiative actions in cross-border transactions over the internet.
+2.Storage Duration of Information
+2.
+Storage Duration of Information
+Generally, during your use of DeepSeek services, we will retain your personal information for the minimum necessary time to achieve the processing purposes described in this Policy, unless there are other stipulations in applicable laws, regulations, or national normative documents. Specific reference regulations include:
+Regulations of the "Cybersecurity Law" Article 21 Chapter 3: Adopt technical measures to monitor and record the network operational status and cybersecurity events and retain relevant network logs for at least six months.
+After exceeding the aforementioned period, or upon your active request to delete your personal information or cancel your account, we will delete your personal information as soon as possible in accordance with applicable laws and regulations, unless these laws, regulations, or normative national documents require retaining this information for a longer period. But in the following cases, DeepSeek will change the storage time of personal information to comply with legal requirements:
+• To comply with applicable laws, regulations, and other relevant provisions;
+• To comply with court judgments, decisions, or other legal process provisions;
+• To comply with the requirements of relevant government authorities or legally authorized organizations;
+• DeepSeek reasonably believes that it is necessary to comply with relevant laws and regulations;
+• For the reasonable necessary purposes of executing related service agreements or this Policy, maintaining public interests, and protecting the personal and property safety or other legal rights and interests of DeepSeek customers, DeepSeek, other users, or employees.
+After you terminate the use of DeepSeek, DeepSeek will stop collecting and using your information, except as otherwise provided by laws, regulations, or regulatory authorities.
+When the relevant services of DeepSeek cease to operate, DeepSeek will notify you through notifications and announcements and delete your personal information retained on the servers within the time limit required by laws and regulations.
+VII.How do you exercise your rights to manage your personal information?
+VII.
+How do you exercise your rights to manage your personal information?
+According to relevant Chinese laws, regulations, and standards, you have several rights in the processing of personal information, including:
+• The right to be informed and decide on the processing of personal information, and you can restrict or refuse others from processing your personal information, except as otherwise provided by laws and administrative regulations;
+• You have the right to access and copy your personal information from the information processor, except as otherwise provided by law;
+• You have the right to request the transfer of your personal information to a designated processor;
+• If you find that your personal information is inaccurate or incomplete, you have the right to ask the processor to correct or supplement it;
+• You have the right to request the deletion of your personal information;
+• You have the right to require the personal information processor to explain its processing rules.
+We ensure that you can exercise the above rights over your personal information and provide you with related operation paths. Specifically, you can refer to the following steps:
+（1）To access, correct, supplement, or delete your personal information:
+i. Access your basic information
+You can access basic information such as cell phone number, email address, etc. by following the steps below:
+• Log in to your account;
+• Click on Profile;
+• View the required information.
+The specific operation may vary slightly with the version iteration. If you are unable to access this personal information through the above operations or pages, please feel free to contact us.
+ii. Correct or supplement your personal information
+You can change your password by clicking on Forgot Password in the login screen. You can also contact us at any time to correct or supplement your basic information such as cell phone number, email address, etc.
+The specific operation may vary slightly with the version iteration. When you find an error in the personal information we process about you, please feel free to contact us.
+iii. Delete your personal information
+a.   You have the right to request the deletion of your Q&A history and other personal information. You can contact us in the manner described in this Policy.
+b.  Obtain a Copy of Your Personal Information
+You have the right to obtain a copy of your personal information. You can contact us in the manner described in Chapter 10 of this Policy, and we will promptly process your request.
+c.  Transfer Your Personal Information
+You have the right to request the transfer of your personal information to the personal information processor you designate. If it meets the conditions stipulated by the national Internet information department, we will provide you with a way to transfer. You can contact us in the manner described in Chapter 10 of this Policy, and we will promptly process your request.
+d.  Change the Scope of Your Authorized Consent or Withdraw Authorization
+You can change the scope of your authorization for us to continue collecting personal information or withdraw your authorization by canceling your account. You can follow these steps: please log in to your account and submit an application to cancel the account. After you withdraw consent or authorization, we cannot continue to provide the services corresponding to the withdrawn consent or authorization, and will no longer process your corresponding personal information. However, your decision to withdraw consent or authorization will not affect the previous processing of personal information based on your authorization.
+e.  Cancel Account
+You have the right to cancel your account. You can contact us in the manner described in Chapter 10 of this Policy to assist you in canceling your account. After receiving your request, we need you to provide an account (email or Google account) and a verification code to verify identity. After successful verification, we will promptly complete the cancellation for you. To ensure security, we may require you to provide corresponding evidence to prove your identity and the legitimacy of your request. After you successfully cancel, we will delete your personal information as soon as possible in accordance with legal and regulatory requirements.
+Please log in to your account and submit a request to cancel the account. After verification and informing you of the associated risks of canceling the account, we will proceed with the cancellation process for you.
+f.  Restrict Automated Decision-Making and Disable Cookies and Similar Technologies
+Our products and/or services do not involve automated decision-making and message notifications based on automated decision-making.Our products only involve non-targeted notifications and the use of cookies and similar technologies. There may also be cookies and similar technologies placed by other third-party service providers on our products and services, and you have the right to disable these cookies and similar technologies. Specifically, you can refer to the following steps for relevant operations:
+Our products and/or services do not involve automated decision-making and message notifications based on automated decision-making.
+Disable cookies and similar technologies on the website:
+Disable cookies and similar technologies on the website:
+Go to the browser "Settings" page, find the relevant page for privacy and security settings, and turn off the settings that allow the website to save and read cookies.Please be aware that the specific way to turn off depends on the type of browser you choose.
+Please be aware that the specific way to turn off depends on the type of browser you choose.
+g.  Respond to your requests
+DeepSeek will adopt appropriate technical means to ensure that you can access, supplement, correct, delete, or apply to DeepSeek for the supplementation, correction, deletion, copying, or transfer of relevant information through the feedback or complaint channels published by the DeepSeek product services. After receiving your application, DeepSeek will process it according to the procedure. To ensure security, according to the process, DeepSeek may first require you to verify your identity. We need you to provide an account (mobile phone number or email) and a verification code, and after successful verification, we will process your request. DeepSeek may refuse those requests that are unreasonably repetitive, require excessive technical means (for example, needing to develop new systems or fundamentally change current practices), pose risks to the legitimate rights and interests of others, or are highly impractical (for example, involving information stored on backup tapes).
+If you cannot access, supplement, correct, delete, copy, or transfer your personal information, or change the scope of your authorized consent or withdraw authorization, cancel the account, restrict automated decision-making, and close message notifications, or you need to access, supplement, correct, delete, copy, or transfer other personal information generated when using DeepSeek, or you believe that DeepSeek has any violations of laws and regulations or agreements with you regarding the collection or use of personal information, you can contact DeepSeek through the official feedback channels published by the relevant products or services of DeepSeek.
+Please note that we may not be able to respond to your request in the following situations:
+a)   Related to our legal obligations;
+b)   Directly related to national security or defense;
+c)   Directly related to public safety, public health, or significant public interests;
+d)   Directly related to criminal investigations, prosecutions, trials, and the execution of judgments;
+e)   There is sufficient evidence of malicious or abusive rights;
+f)   Difficult to obtain consent due to major lawful interests such as life and property;
+g)   Responding will cause serious damage to the lawful rights and interests of you or other individuals or organizations;
+h)   Involving trade secrets.
+VIII.How We Protect Minors’ Personal Information
+VIII.
+How We Protect Minors’ Personal Information
+DeepSeek is mainly for adults, but we still take the protection of minors' personal information very seriously.
+We consider anyone under the age of 18 as a minor. As per relevant laws and regulations, if you are a minor over 14 years old, we will seek consent from you or your guardian before collecting your personal information. If you, your parents, or other guardians ask us to correct or delete the minor’s personal information, we will take timely measures to correct or delete it unless otherwise stipulated by laws and administrative regulations.
+If you are a minor under the age of 14 (hereinafter referred to as a child), we will seek consent from your parents or other guardians before collecting your personal information.
+In processing children’s personal information, we will take the following measures to ensure its safety: For collected children’s personal information, apart from complying with this Policy, we will strictly adhere to legal requirements such as the "Provisions on the Cyber Protection of Children's Personal Information" and store, use, and disclose the information based on principles like necessity, informed consent, specific purpose, and legal utilization. We won’t keep the information longer than required and will delete it after the period necessary for the collection and use of the information.
+If you are the parent or guardian of a minor and have any questions, opinions, suggestions, complaints, or reporting needs related to this Policy, please provide feedback through the methods described in Chapter X.
+IX.How We Update This Policy
+IX.
+How We Update This Policy
+To provide you with better services, DeepSeek Service will be updated and changed from time to time; we will timely revise this Policy, and these revisions constitute part of this Policy.
+After this Policy is updated, we will issue an updated version on DeepSeek website, and remind you to read the updated privacy policy through announcements of the new version, enabling you to understand the latest version of the Policy promptly. If you do not agree with this Policy, or disagree with any modifications or updates to this Policy, you may choose to stop using the DeepSeek Service or cancel your account. However, please be aware that your behavior and activities prior to the cancellation of your account and prior to discontinuing your use of this Service are still subject to this Policy.
+For significant changes that will substantially reduce your rights under this personal information protection rule, we will provide more prominent notices (We will explain the specific parts of this Policy that have changed by means including, but not limited to, email, text message, or special notification on the viewing page).
+4.We encourage you to read this Policy during the use of our products and/or services.
+4.
+We encourage you to read this Policy during the use of our products and/or services.
+X.How to Contact Us
+X.
+How to Contact Us
+If you have any questions or suggestions about this Policy or your personal information during the use of DeepSeek, please contact us through the following methods:
+Network self-service complaint feedback entry: log in to the product interface and click the complaint feedback button
+Contact email:service@deepseek.com
+Contact address: 5th Floor, North Building, C Block, Rongke Information Center, 2 South Road of the Academy of Sciences, Haidian District, Beijing
+We may need you to submit identification, valid contact information, written requests, and related evidence. After verifying your identity, we will process your request and reply within 15 working days.
+XI.Others
+XI.
+Others
+Any disputes related to this Policy shall be resolved through friendly negotiation between the parties. If it cannot be settled through negotiation, you hereby agree to bring a lawsuit to the court with jurisdiction over the domicile of Hangzhou DeepSeek Artificial Intelligence Co., Ltd..
+If any court with jurisdiction finds any terms of this Policy invalid, that term will be removed from this Policy, but it will not affect the validity of the remaining terms of this Policy, which will continue to be implemented.
+Beijing DeepSeek Artificial Intelligence Co., Ltd.
+Hangzhou DeepSeek Artificial Intelligence Co., Ltd.
+Updated Date: November 29, 2023
+Effective Date: November 29, 2023

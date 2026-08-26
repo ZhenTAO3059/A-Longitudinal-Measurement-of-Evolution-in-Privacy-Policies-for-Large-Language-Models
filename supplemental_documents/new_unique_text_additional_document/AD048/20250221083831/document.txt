@@ -1,0 +1,44 @@
+xAI Enterprise FAQs
+xAI Enterprise FAQs
+February 14, 2025
+February 14, 2025
+This page is designed to address questions from xAI business and enterprise customers using thexAI API.
+This page is designed to address questions from xAI business and enterprise customers using thexAI API.
+If you are an individual user accessing Grok through the Grok mobile app oniOSor theGrok.comwebsite, please see ourConsumer FAQ.  If you use Grok on the X platform, please see theX help center.
+Who is xAI?
+Who is xAI?
+X.AI LLC ("xAI") is a US-based company working on building artificial intelligence tools to accelerate human scientific discovery. We are guided by our mission to advance our collective understanding of the universe. xAI is a separate company from X Corp. ("X", previously Twitter).
+xAI
+X
+Who owns inputs and outputs?
+Who owns inputs and outputs?
+You own the Inputs and Outputs.
+While you own Grok’s outputs, you grant xAI certain use rights pursuant to xAI’sEnterprise Terms.  We do ask that you attribute the generated work to Grok as provided in xAI’s Brand Guidelines available onxAI’s legal website.
+Does xAI train its models using your business data?
+Does xAI train its models using your business data?
+No, we do not use your business data, including inputs (prompts) or outputs (answers), for training our models. In some instances we may offer free credits in exchange for you agreeing to permit us to train on your business data.
+What security measures does xAI use to protect customer data?
+What security measures does xAI use to protect customer data?
+xAI’s security measures are outlined in Appendix 2 of ourData Processing Addendum(DPA).
+Does xAI support customers with compliance with the GDPR and other privacy laws?
+Does xAI support customers with compliance with the GDPR and other privacy laws?
+Yes, if you submit personal data to our Services, ourData Processing Addendum(DPA) applies and is automatically incorporated into ourEnterprise Terms of Service.
+Is xAI HIPAA compliant?
+Is xAI HIPAA compliant?
+Under some circumstances, we can support a customer’s HIPAA compliance obligations.
+Does xAI look at or otherwise review business data, such as inputs?
+Does xAI look at or otherwise review business data, such as inputs?
+xAI may use automated content classifiers and safety tools to better understand how our services are used and to ensure our Terms of Service andAcceptable Use Policyare not being violated.
+A limited number of authorized xAI personnel may review your data when legally required, such as investigating security incidents and potential misuse of our services, and complying with our legal obligations. For more information, see ourEnterprise Terms of ServiceandPrivacy Policy.
+For how long is business data retained?
+For how long is business data retained?
+Inputs and outputs are automatically deleted within 30 days, unless (a) otherwise agreed in writing, (b) xAI is legally required to retain them because, for example, they are flagged as potentially violating our Terms of Service or AUP.
+Does xAI sell my data?
+Does xAI sell my data?
+No. We do not sell your data or share it with third parties for marketing or advertising purposes.
+Can I use the xAI API to run a competing service?
+Can I use the xAI API to run a competing service?
+No. You are prohibited from directly using or having someone else use the xAI API to lease our service or to develop or run any service similar to or competitive with any xAI service. See ourEnterprise Terms of Service.
+What is the minimum age to use the xAI API?
+What is the minimum age to use the xAI API?
+You must be 18 years old or older to use the xAI API.

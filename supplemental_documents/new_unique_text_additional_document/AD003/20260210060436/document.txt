@@ -1,0 +1,23 @@
+Updated: January 8, 2026
+Enterprise privacy at OpenAI
+Our commitments
+Our commitments provide you with ownership and control over your business data (inputs and outputs from ChatGPT Business, ChatGPT Enterprise, ChatGPT for Healthcare, ChatGPT Edu, ChatGPT for Teachers and our API Platform) and support for your compliance needs.
+You own and control your data
+We do not train our models on your data by default
+You own your inputs and outputs (where allowed by law)
+You control how long your data is retained (ChatGPT Enterprise, ChatGPT for Healthcare, ChatGPT Edu)
+You control which internal sources are connected
+You decide who has access within your organization
+Enterprise-level authentication through SAML SSO
+Fine-grained control over access and available features
+Custom models ⁠ (opens in a new window) are yours alone to use and are not shared with anyone else
+Comprehensive compliance
+Successfully completed a SOC 2 audit, confirming that our controls align with industry standards for security and confidentiality
+Data encryption at rest (AES-256) and in transit between our customers and us, and between us and our service providers (TLS 1.2+)
+Visit our Trust Portal ⁠ (opens in a new window) to understand more about our security measures
+General FAQ
+ChatGPT Enterprise, ChatGPT Edu, and ChatGPT for Healthcare FAQ
+ChatGPT Business FAQ
+ChatGPT for Teachers FAQ
+API Platform FAQ
+Model training FAQ

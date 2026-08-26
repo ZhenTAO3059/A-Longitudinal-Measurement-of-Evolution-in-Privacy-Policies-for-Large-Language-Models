@@ -1,0 +1,27 @@
+Data exports are currently available to free/Pro claude.ai users with active accounts, and Primary Owners of Claude for Work plans.
+Data exports are currently available to free/Pro claude.ai users with active accounts, and Primary Owners of Claude for Work plans.
+Data exports include your personal conversation data and the user data for your account.
+Data exports include your personal conversation data and the user data for your account.
+If you are the Primary Owner of a Claude for Work plan looking to export additional account data , including the contents of user conversations and uploaded files, reach out to our Support team for additional assistance.
+If you are the Primary Owner of a Claude for Work plan looking to export additional account data , including the contents of user conversations and uploaded files, reach out to our Support team for additional assistance.
+You can export your user information and chat history from your Account Settings .
+Follow these steps to export your data:
+Click on your initials in the lower left corner of your account.
+Click on your initials in the lower left corner of your account.
+Select "Settings" from the menu.
+Select "Settings" from the menu.
+Navigate to the "Account" section.
+Navigate to the "Account" section.
+Click on the "Export Data" button.
+Click on the "Export Data" button.
+Once the export has been processed, you will receive a download link via email. Please note:
+There may be a small delay while the export is generated.
+There may be a small delay while the export is generated.
+The email will be sent to the address associated with your account.
+The email will be sent to the address associated with your account.
+You must be signed in to your account to download your data using this link.
+You must be signed in to your account to download your data using this link.
+The download link will expire 24 hours after delivery.
+The download link will expire 24 hours after delivery.
+If your link expires, you can always request a new one by repeating the export process.
+If your link expires, you can always request a new one by repeating the export process.

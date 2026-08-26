@@ -1,0 +1,16 @@
+Deleting and Renaming Individual Conversations
+To delete or rename an individual conversation:
+Navigate to the conversation you want to delete or rename.
+Navigate to the conversation you want to delete or rename.
+Click on the name of the conversation at the top of the screen.
+Click on the name of the conversation at the top of the screen.
+Select either "Delete" or "Rename" from the options that appear:
+Select either "Delete" or "Rename" from the options that appear:
+Deleting Conversations in Bulk
+To delete multiple conversations at once:
+Navigate to your Recents by hovering over the left side of your window and selecting "View all".
+Navigate to your Recents by hovering over the left side of your window and selecting "View all".
+Hover over the conversations you want to delete, and check the selection box that appears.
+Hover over the conversations you want to delete, and check the selection box that appears.
+Once you've selected the conversations to delete, click on the "Delete Selected" button.
+Once you've selected the conversations to delete, click on the "Delete Selected" button.

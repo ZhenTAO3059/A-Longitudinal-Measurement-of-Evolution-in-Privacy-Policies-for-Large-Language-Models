@@ -1,0 +1,142 @@
+Qwen Chat Privacy Policy
+Version effective date: December 20, 2024
+Thank you for using Qwen Chat! Before using Qwen Chat, please read this Privacy Policy carefully to learn our practices to protect your personal data.
+This Qwen Chat Privacy Policy (“Privacy Policy”) applies to your access or use of Qwen Chat Services located at qwen.io (“Services”) as provided by Alibaba (Singapore) Private Limited (referred to as “we”, “us”, “our” or “Alibaba” hereinafter). This Privacy Policy explains how we collect, use, and disclose your personal data in relation to the Services, in the manner and for any of the purposes set forth in this Privacy Policy. In addition, it will also provide you with more information about the bases upon which we may lawfully collect, use, and/or disclose your personal data, where permitted by applicable law.
+Unless otherwise specified, the Privacy Policy does not apply to any products and/or services provided by any third party independently through our Services, such as the products or websites displayed as your search results or other websites linked via our Services. It should be noted that if you provide your personal data to any third party when using the Services, your information shall be subject to the privacy statement or similar policies of such third party, and we will not undertake any legal liability for any third party’s improper use or disclosure of such information.
+If you do not agree with the terms of this Privacy Policy, you can turn off Services by clicking “Disagree” and we will not be able to provide you with the Services related to Qwen Chat. If you click or tick “Agree”, it means that you fully and clearly understand the following terms regarding information collection and usage, your rights to your personal data, etc.
+This Privacy Policy will help you understand the following:
+I. How Do We Collect and Process Your Personal Data
+II. How Do We Use Your Personal Data
+III. How Do We Use Cookies and Similar Technologies
+IV. How Do We Disclose Your Personal Data
+V. How’s Your Personal Data Transferred Globally
+VI. How Do We Retain Your Personal Data
+VII. How Do We Protect Your Personal Data
+VIII. How Do We Process Children’s Personal Data
+IX. Your Rights to Your Personal Data
+X. How to Update the Privacy Policy
+XI. How to Contact Us
+I. How Do We Collect and Process Your Personal Data
+For the purpose of the Privacy Policy, “personal data” refers to any information relating to an identified or identifiable natural person. We collect personal data for more efficient operation and to provide you with best usage experience. Our channels to collect personal data include: (a) information directly provided by you to us; (b) we obtain relevant data during your use of the Services; and/or (c) we obtain personal data about you from third parties.
+To be specific, we will collect, use, process and/or disclose the following personal data of End Users:
+Data Description	Source
+Account Information: We collect your personal data, such as your name, email address when you sign up for an account, or to receive information on our Services.	Information directly provided by you to us.
+User Content: We collect personal data that you provide in the input to our Services, including your prompts and other content you upload, such as text, files, images, and audio (if any), depending on the features you use.
+Feedback: We appreciate feedback, including ideas and suggestions for improvement or rating an Output in response to a prompt. If you rate an Output in response to a prompt—for example, by using the thumbs up/thumbs down icon—we will store the related conversation as part of your Feedback.
+Communication Information : If you communicate with us, such as via email or our pages on social media sites, we may collect Personal Data like your name, contact information, and the contents of the messages you send.
+Log Data : We collect information that your browser or device automatically sends when you use our Services. Log data includes your device brand, model and ID, Internet Protocol address, browser type and settings, the date and time of your request, and how you interact with our Services.	Information we automatically collect during your use of the Services
+Usage Data : We collect information about your use of the Services, such as the types of content that you view or engage with, the features you use and the actions you take, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection.
+Cookies : To improve your experience, we use cookies and similar technologies to operate our Services. For details about our use of cookies, please find the Section III of this Privacy Policy.
+Account Information : We may offer you an option to create an account using your account credentials through certain third-party social networking sites ("SNSs") such as Google and Github. If you elect to register or use the Services using an account you already have with an SNS, we may obtain your information from the applicable SNS pursuant to your agreement with that SNS. The information we collect may depend on the privacy settings you have with the applicable SNS, so please check their privacy and data practices.	Information we collect from third parties.
+II. How Do We Use Your Personal Data
+We will collect, use, process and/or disclose your personal data for the purposes set out in the table below:
+Purpose/Activity	Type of personal data	Lawful basis for processing
+To provide, maintain and facilitate our Services	
+- Account Information
+- User Content
+- Feedback
+- Communication Information
+- Log Data
+- Usage Data
+-  Cookies
+- Account Information
+- To perform a service contract with you
+To send you marketing communications, where you have signed up to receive them	
+- Account Information
+- Communication Information
+- Consent (where required under applicable law)
+To prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services	
+- Account Information
+- User Content
+- Log Data
+- Usage Data
+- Cookies
+- Legitimate interests (managing the security of our Services)
+- Legal obligation
+To provide you with technical support, such as debugging and repairing errors	
+- Account Information
+- Feedback
+- Log Data
+- Usage Data
+- Cookies
+- Legitimate interests (managing the security of our Services)
+To de-identify personal data and train our AI models	
+- User Content
+- Feedback
+- Legitimate interests (to provide you more accurate and helpful services)
+To comply with legal obligations and to protect the rights, privacy, safety, or property of our users, us, or third parties.	
+- Account Information
+- User Content- Feedback
+- Communication Information
+- Log Data
+- Usage Data
+- Cookies
+- Legitimate interests (managing the security and stability of our Services)
+- Legal obligation
+III. How Do We Use Cookies and Similar Technologies
+1. What are Cookies?
+A cookie is mainly used for facilitating your use of our Services, and helping us count the number of independent visitors. With cookie technology, we can provide you with more thoughtful personalized services and allow you to set specific service options.
+2. Cookies and similar technologies we used
+We use cookies and similar technologies to track the activities on our Services and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze our services. The technologies we use may include:
+2.1 Cookies or Browser Cookies One of the main purposes of cookies is to provide a time-saving practical function. For example, if you personalize the Services Platform, cookies will help you call your information in subsequent visits, simplifying the process of your personal data recording (such as one-click login). When you return to the main page of the Services Platform, terminology database can call the information you provided before, facilitating your use of your customized functions. Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on your personal computer or mobile device when you go offline, while Session Cookies are deleted as soon as you close your web browser. We use both Session and Persistent Cookies for the purposes set out below:
+Necessary / Essential Cookies
+Type: Session Cookies
+Administered by: US
+Purpose: these cookies are essential to provide you with services available through Services Platform and to enable you to use some of its features. They help to authenticate users and prevent fraudulent use of Services account. Without these cookies, the services that you have asked for cannot be provided, and we only use these Cookies to provide you with those services.
+Cookies Policy / Notice Acceptance Cookies
+Type: Persistent Cookies
+Administered by: US
+Purpose: these cookies identify if users have accepted the use of cookies on Services Platform.
+Functionality Cookies
+Type: Persistent Cookies
+Administered by: US
+Purpose: these cookies allow us to remember choices you make when you use Services Platform, such as remembering your login details or language preference. The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you use Services Platform.
+Meanwhile, we also use cookie or similar tracking technologies to analyze trends, manage website, track user behaviors on the website, and collect the overall audience profile information of our user group. We automatically collect certain information to analyze cumulative trends and manage our website. The aforementioned information may include Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), reference/exit pages, files you view on our website (such as HTML pages, graphics, etc.), operating system, date/time stamp and/or click-stream data.
+2.2 Web Beacons. Certain sections of our services may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit us, for example, to count users who have visited those pages and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity). We may use web beacons to call cookies on our website in work related to our products and relevant services.
+3. Clear/disable cookies
+In principle, we will only enable cookie or similar technologies with your explicit consent, and collect your information via cookie. You can turn on the cookie related functions or perform corresponding operations through methods to manage cookies or set cookie preferences in commonly used browser software disclosed below, and we will strictly follow your decision to use cookies and similar technologies.
+Some functions of our services depend on cookies. Your refusal of use or deletion of cookies may disqualify you to log in or use cookie-based services or functions. The guidance on how to disable, delete or manage cookies in commonly used browser software is detailed as follows:
+Microsoft Internet Explorer
+Microsoft Edge
+Mozilla Firefox
+Google Chrome
+Safari for macOS
+Safari for iOS
+4. More information about cookies
+For more information about cookie and instructions on how to set up your browser to accept, delete or disable cookie, see www.allaboutcookies.org.
+IV. How Do We Disclose Your Personal Data
+We disclose your personal data to the following categories of recipients:
+ouraffiliated companies in the Alibaba Group and/or their designated service providers, who provide data processing services necessary to provide you with ourServices under the Terms of Services;
+third party service providers and partners who provide data processing services to us as necessary to provide you with ourServices, or who otherwise process personal data for purposes described in this PrivacyPolicy;
+any competent law enforcement body, regulatory, government agency, court or other third party (such as our professional advisers) where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights or so a third party can defend theirs, or (iii) to protect your vital interests or those of any other person; and
+any other person with your consent to the disclosure.
+V. How’s Your Personal Data Transferred Globally
+Insome cases, where your personal data is transferred to anotheraffiliatedcompany in Alibaba Group or third parties (as explained in section IV), it is processed in countries other than the country in which you are resident. These countries may have data protection laws that are different to the laws of your country (and, in some cases, may not be as protective).
+Specifically, ourService Servers are located in Singapore, and our group companies and their designated service providers are in Singapore and China. This means that when we collect your personal data, we will process it in any of these countries.
+We strive to take appropriate safeguards to ensure that your personal data will remain protected in accordance with this Privacy Notice and applicable laws. For example, we implement measures such as entering into written agreements including standard contractual clauses and other data protection agreements with recipients.
+VI. How Do We Retain Your Personal Data
+We retain the personal data we collect from you where we have an ongoing legitimate need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements). In certain circumstances, we will need to keep your information for legal reasons after your account has been deleted. The specific retention periods depend on the nature of the information and why it is collected and processed and the nature of the legal requirement. We keep your information when we have a legal obligation to do so (for example if a court order is received about our Customer’s account, we would retain your data for longer than the usual retention period when an account is deleted); or to deal with requests and complaints and for litigation or regulatory matters (for example we would retained your information if there was an ongoing legal claim and the information was relevant to the claim. This information would be retained until the legal claim had been concluded).
+When we have no ongoing legitimate need or legal reason to process your personal data, we will either delete it in a secure manner that would prevent further processing, unauthorized access or disclosure to any other party or the public or prejudice your interest or anonymise it or, if this is not possible (for example, because your personal data has been stored in backup archives), then we will securely store your personal data and isolate it from any further processing until deletion is possible.
+VII. How Do We Protect Your Personal Data
+We use appropriate technical and organizational measures to protect the personal data that we collect and process about you. These measures are designed to provide a level of security appropriate to the risk of processing. Specific measures we use include encrypting your personal data in transit and at rest; using an industry standard framework as part of any Information SecurityProgramme; employing advance malware protections; implementation of other reasonable security defenses (including vulnerability management, access management and recovery/resilience measures).
+Nevertheless, no data transmission over the internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect your personal data, we cannot guarantee the security of any personal data you transmit to us and you do so at your own risk. We cannot and do not guarantee security in connection with your use of the App. Where you have created an account with us that uses a unique password to enable you to access our App, it is your responsibility to keep this password secure and confidential.
+VIII. How Do We Process Children’s Personal Data
+Our Services are not directed to, or intended for, children under 13 (or the age stipulated by applicable laws and regulations in your jurisdiction). We do not knowingly collect Personal Data from children under 13. If you have reason to believe that a child under 13 has provided Personal Data to us through the Services, please contact us through the channel disclosed in this Privacy Policy. We will investigate any notification and, if appropriate, delete the Personal Data from our systems.
+IX. Your Rights to Your Personal Data
+1. Depending on the jurisdiction in which you are residing, you may have the right to:
+1.1 access your Personal Data and information relating to how it is processed;
+1.2 erasure or delete your Personal Data;
+1.3 update or correct your Personal Data;
+1.4 data portability;
+1.5 restrict or object how we process your Personal Data;
+1.6 withdraw your consent; and
+1.7 make a complaint to the data protection agency in your country.
+You can exercise some of these rights through your Service account. If you are unable to exercise your rights through your account, please submit your request through DPO_qwenlm-intl@service.alibaba.com. We will respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+2. We will respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+X. How to Update the Privacy Policy
+We may update this Privacy Policy from time to time in response to changing legal, regulatory, technical or business developments. Any changes to this Privacy Policy will be communicated by us posting an amended Privacy Policy in the Services Platform. The new Privacy Policy will become immediately effective once posted or at a date specified by Alibaba. We may also in our discretion provide notice to you of any changes to the Privacy Policy. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice in the Services Platform prior to the change becoming effective. To the maximum extent permissible under applicable law, you agree to be bound by the prevailing terms of the Privacy Policy as modified from time to time. Please check back regularly for updated information on the handling of your personal data.
+You can see when this Privacy Policy was last updated by checking the “last updated” date displayed at the top of this Privacy Policy.
+XI. How to Contact Us
+If you have any questions about this Privacy Policy, or have any questions, complaints or requests regarding your personal data, you can contact us as described below:
+Attention: Data Protection Officer/Alibaba Cloud (Singapore) Private Limited, c/o 26/F, Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong.
+E-mail address: DPO_qwenlm-intl@service.alibaba.com

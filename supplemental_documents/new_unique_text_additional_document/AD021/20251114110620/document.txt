@@ -1,0 +1,22 @@
+This article is about our consumer products such as Claude Free, Pro, Max and when accounts from those plans use Claude Code. For our commercial products such as Claude for Work and the Anthropic API, see here .
+Anthropic retains your personal data for as long as reasonably necessary for the purposes and criteria outlined in our Privacy Policy .
+Standard Retention Timeframe
+If You Allow Us to Use Your Data to Improve Claude
+If you allow us to use your chats or coding sessions to improve Claude, we will retain your data for up to 5 years. This retention period only applies to new or resumed chats, once data sharing is enabled. You can learn more about how our models are trained here .
+If you choose to provide your data for model training, you can change your privacy settings at any time following these steps here .
+If you decide to turn off the model training setting, we will not use any new chats and coding sessions you have with Claude for future model training. Your data will still be included in model training that has already started and in models that have already been trained, but we will stop using your previously stored chats and coding sessions in future model training runs.
+Your Incognito chats are not used to improve Claude, even if you have enabled Model Improvement in your Privacy Settings . Learn more about Incognito chats.
+If You Do Not Allow Us to Use Your Data to Improve Claude
+If you choose not to allow us to use your chats and coding sessions to improve Claude, your chats will be retained in our back-end storage systems for up to 30 days.
+Controlling Your Chat History
+You control your chat history and can delete your conversations at any time. When you delete a conversation it’s:
+Removed from your chat history immediately
+Deleted from our back-end storage systems within 30 days ​
+Usage Policy Violations
+We retain inputs and outputs for up to 2 years and trust and safety classification scores for up to 7 years if your chat or session is flagged by our trust and safety classifiers as violating our Usage Policy .
+In all cases, we may retain chats and coding sessions as required by law or as necessary to combat violations of our Usage Policy.
+Feedback Data
+Where you have provided feedback to us (e.g. by submitting feedback through our thumbs up/down button or sent bug reports), we retain data associated with that submission for 5 years. Learn more .
+Additional Information
+We may anonymize or de-identify your personal data for research or statistical purposes, in which case we may retain this information for longer.
+For more information about our privacy practices, please see our Trust Center and Privacy Policy .

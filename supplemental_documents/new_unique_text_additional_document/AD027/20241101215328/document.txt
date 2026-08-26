@@ -1,0 +1,11 @@
+What is computer use (beta)?
+What is computer use (beta)?
+Computer use is a beta feature included in the new Claude 3.5 Sonnet model.
+With computer use, developers can direct Claude to use computers the way people do—by interpreting screen content, moving a cursor, clicking, and inputting text.
+Computer use is currently only available to our Commercial Customers using the Anthropic API, and must be built and enabled by a developer.
+What personal data may be processed by computer use (beta)?
+What personal data may be processed by computer use (beta)?
+When prompted by a User, computer use will process and collect screenshots from the computer's display that Claude uses to interpret and interact with the interface, along with the user’s Prompts and Outputs. Anthropic will not collect any additional data from users' computer interface.
+Anthropic does not use your Prompts or Outputs to train our generative models, unless you explicitly report materials to us, or have otherwise opted in to training. Read more here .
+By default, Anthropic will automatically delete all screenshots from our backend within 30 days, unless the Customer and Anthropic have agreed to different terms. Anthropic retains this data to help enforce our Usage Policy . Read more here .
+For more information about our computer use (beta) product, please see our Announcement and Docs .

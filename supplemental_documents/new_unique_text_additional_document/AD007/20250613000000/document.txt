@@ -1,0 +1,78 @@
+Meta AIs Terms of Service (UK)
+
+These Terms of Service (“Terms”) apply when you access and use Meta AIs and other software, tools, services, documentation, content, functionalities, and generative AI features that we make available to you through any Meta product (collectively, “AIs”). These terms are a legally binding agreement between you and Meta Platforms, Inc. (“Meta”, “we”, “our”, or “us”). By using AIs, you agree to be bound by these Terms, the Meta Terms of Service, and any other applicable terms and policies.
+
+Your Commitments
+A. Eligibility
+Without limiting the Meta Terms of Service or any other applicable terms or policies, you cannot access AIs if you are under the age of 13 (or such greater age required in your country or territory) or if you are prohibited from receiving our services or software under applicable laws.
+B. Acceptable Uses
+You may not access, use, or allow others to access or use AIs in any manner that would:
+Be unlawful (including but not limited to any manner that promotes, contributes to, or encourages illegal or unlawful activity), including conduct that describes, encourages, supports, or distributes in any form child sexual abuse materials
+Generate, promote, disseminate, or otherwise use or facilitate content that may harm other individuals, including to encourage self-harm, discrimination, bullying, humiliation, and/or other emotional harms. This also includes causing harm by using AIs to: (i) deploy subliminal, manipulative, or deceptive techniques to distort behavior by impairing decision making; or (ii) exploit people due to their age, disability, or a specific social or economic situation to distort their behavior
+Present a risk of death or bodily harm to individuals (including in relation to illegal drugs, weapons, or self-harm)
+Generate, promote, disseminate, or otherwise use or facilitate adult content, such as erotic chat, pornography, and content meant to arouse sexual excitement
+Deceive or mislead others, including but not limited to activity related to plagiarism, scams, phishing or malware, and furtherance of misinformation or disinformation
+Generate, promote, disseminate, or otherwise use or facilitate content that may violate or infringe upon the rights of others (including but not limited to intellectual property rights and privacy rights)
+Solicit professional advice (including but not limited to medical, financial, or legal advice) or content to be used for the purpose of engaging in other regulated activities (including but not limited to political campaigning or lobbying)
+Override safety or privacy filters, controls, or mechanisms
+
+
+Prompts, Results, and Other Content
+A. Rights to Content
+AIs allows you to provide materials for processing, which could include text, documents, images, or recordings, depending on the integration (together, “Prompts”) and will generate a response (“Outputs”) based on your Prompts, as well as any feedback you provide (“Feedback”) collectively, “Content”. You may not provide prompts or use AIs in any way that infringes or violates someone else’s rights, including intellectual property rights. Except as expressly provided in these Terms, you retain all right, title, and interest – including any intellectual property rights – that you have in and to your Prompts. You agree that your provision of Prompts will not violate these Terms, including the Acceptable Uses, and other policies that apply to your use of AIs.
+B. Meta AIs Data
+The Meta Privacy Policy governs our processing of personal information processed through the AIs and explains how we collect, use, and share personal information - including personal information you submit as Prompts, Feedback, or other Content, your activity across our products, and personal information we collect from and about your device. We process personal information, including information on sensitive topics, as described in the Privacy Policy, to improve AIs and related technology.
+When information is shared with AIs, the AIs may retain and use that information to provide more personalized Outputs. Do not share information that you don’t want the AIs to use and retain such as account identifiers, passwords, financial information, or other sensitive topics.
+If the AIs cannot answer your query, or if our systems determine that a more relevant or up-to-date response could be provided by a partner, we may ask a third party to provide a response. For example, in these cases we share questions contained in a Prompt and limited metadata to enable a more accurate answer with a third-party search engine, and include the search results in the response to your Prompt. The information we share with third parties may contain personal information if your Prompt contains personal information about any person. By using AIs, you are instructing us to share your information with third parties when it provides you with more relevant or useful responses. Those third parties will use any information we share – which could include personal information about you or others if you include such information in your Prompt– in accordance with those third parties’ privacy policies. You can view the list of these third parties, and links to their privacy policies, by visiting our Privacy Center. We add or remove third parties from time to time, and notice will be provided solely by adding or removing that party from the list referenced above.
+In some cases, Meta will review your interactions with AIs, including the content of your conversations with or messages to AIs, and this review can be automated or manual (human).
+Depending on where you reside, you or an authorized agent may request access to your personal information from Meta in a portable format, deletion of your personal information, or correction of your personal information, subject to certain exceptions. To learn more about how you can access and delete your personal information associated with AIs, and exercise any applicable rights, visit our Privacy Center. It is important that you review the Privacy Center before you try to delete any personal information or delete or deactivate your account. Depending on how you use AIs, deleting individual messages, entire threads, or even your account may not delete our copy of your personal information, and the Privacy Center describes the correct way to delete your personal information.
+C. Accuracy
+AIs are a new technology that are still improving in accuracy. As such the accuracy of any content, including outputs cannot be guaranteed and that outputs may be disturbing or upsetting. You should not rely upon outputs for any purpose or use outputs to inform professional advice or decisions related to medicine, finance, law or pharmaceuticals. If you plan to use outputs for any reason, it is your sole responsibility to verify outputs. AIs and any content may not reflect accurate, complete or current information.
+D. Warning Regarding Content
+The AIs will generate Content based on Prompts that you provide. The specific Content that the AIs will return based on your Prompts cannot be predicted in advance. AIs might generate content that you consider offensive or objectionable and/or that does not represent Meta’s views. By agreeing to these terms and by using ais, you recognize and assume the risk that the prompts you provide might result in generation of content that you consider offensive or objectionable. you also recognize and agree that you – not meta – are responsible for your use of, and/or any actions you take in relation to, content generated by the ais based on your prompts.
+
+Meta's Rights
+A. Meta’s Rights Regarding Content
+Meta may use Content and related information including through automated or manual (i.e. human) review and through third-party vendors in some instances, including:
+To provide, maintain, and improve Meta services and features.
+To conduct and support research
+To monitor your use of AIs for compliance with these Terms and applicable laws and to report violations of applicable laws or regulations as required by law or as otherwise requested by a court order or government authority
+To remove unsafe, discriminatory, or other Content that violates these Terms, Meta’s Community Standards, or any other applicable policies and terms
+To suspend or remove accounts that violate these Terms with respect to your use of AIs
+B. Suspension and Termination
+If we determine that you have breached these Terms or other applicable terms and policies, we may suspend or permanently disable your access to AIs or other Meta services or features, and we may permanently disable or delete your account including where we are required to do so for legal reasons.
+
+Ownership of AIs
+We retain all our respective rights, title, and interest, including intellectual property rights, in and to AIs. Other than the rights of access and use expressly granted in these Terms, these Terms do not grant you any right, title, or interest in or to the AIs.
+
+Third Party Materials
+AIs may use or be used in connection with content, services, features, and integrations provided by third parties. Meta is not responsible for your use of third-party content, services, features, and integrations, and you use these at your own risk.
+
+Accuracy of Outputs and Limitations on Liability
+A. Accuracy of Outputs
+AIs are a new technology and are still improving. We make no guarantees that they will be safe, secure or error-free, or will function without disruptions, delays or imperfections. We are not responsible for Outputs, and you are responsible for checking Outputs for accuracy and suitability. The Outputs provided by AIs do not reflect the views of Meta, our affiliates or our personnel.
+B. Limitations on Liability
+Nothing in these Terms is intended to exclude or limit our liability for death, personal injury or fraudulent misrepresentation caused by our negligence, or to affect your statutory rights.
+We will exercise professional diligence in providing the AIs to you in accordance with these Terms. Provided that we have acted with such professional diligence, we do not accept responsibility for losses not caused by our breach of these Terms or otherwise by our acts; losses that are not reasonably foreseeable by you and us at the time of entering into these Terms; and events beyond our reasonable control.
+
+Disputes
+If a claim or dispute arises out of or relates to your use of the Meta AIs as a consumer, both you and us agree that you may resolve your individual claim or dispute against us, and we may resolve our claim or dispute against you, in any competent court in the country of your main residence that has jurisdiction over your claim or dispute, and the laws of that country will apply without regard to conflict of law provisions. We have provided translated versions of these Terms as a courtesy to our users. For matters of legal interpretation, the English language version of these Terms apply.
+If a claim or dispute arises between us that relates to use of the Meta Products in any other capacity, including, but not limited to, access or use of the Meta AIs for a business or commercial purpose, or that an entity brings on your behalf, you agree that any such claim or dispute must be resolved exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County. You also agree to submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim, and that the laws of the State of California will govern these Terms and any such claim or dispute without regard to conflict of law provisions. Without prejudice to the foregoing, you agree that, in its sole discretion, Meta may bring any claim, cause of action, or dispute we have against you in such a capacity in any competent court in the UK that has jurisdiction over the claim.
+
+Severability
+If any portion of these Terms is found to be unenforceable, the unenforceable portion will be deemed amended to the minimum extent necessary to make it enforceable, and if it can’t be made enforceable, then it will be severed and the remaining portion will remain in full force and effect. If we fail to enforce any of these Terms, it will not be considered a waiver. Any amendment to or waiver of these Terms must be made in writing and signed by us.
+
+Changes to These Terms
+We work constantly to improve our services and develop new features to make our products better for you and our community. As a result, we may need to update these Terms from time to time to accurately reflect our services and practices, to promote a safe and secure experience, and/or to comply with applicable law. Unless the changes are required to comply with legal obligations, we will notify you (for example through email or in-app notification) of any changes to these Terms and give you an opportunity to review them before they go into effect. Once any updated Terms are in effect you will be bound by them if you continue to use our AIs. If you do not agree to the updated Terms, you should stop using AIs before they go into effect.
+
+How to Contact Us
+You can contact Meta Platforms, Inc. by writing to:
+
+Meta Platforms, Inc.
+ATTN: Operations
+1601 Willow Road
+Menlo Park, CA 94025, USA
+
+Effective Date
+October 8, 2024
+Last Updated: January 17, 2025

@@ -1,0 +1,88 @@
+DeepSeek Privacy Policy
+Last Update:  March 6, 2024
+Welcome to DeepSeek!
+Introduction
+This privacy policy ("Privacy Policy") applies to the personal information that DeepSeek processes in connection with DeepSeek websites, software and related services (the “Platform”), that link to or reference this Privacy Policy.
+Data Controller: The Platform is provided and controlled byBeijing DeepSeek Artificial Intelligence Co., Ltd. Hangzhou DeepSeek Artificial Intelligence Co., Ltd., and their affiliates, with their registered address in Beijing and Hangzhou(“we”or “us”). If you have any questions about how we use your personal information, please contactservice@deepseek.com(Chat)/api-service@deepseek.com(Platform)or click "Feedback/Report", "Contact us" bottom on the website.
+Beijing DeepSeek Artificial Intelligence Co., Ltd. Hangzhou DeepSeek Artificial Intelligence Co., Ltd.
+we
+us
+What Information We Collect
+We collect your information in two ways: Information You Provide, and Automatically Collected Information. More detail is provided below.
+Information You Provide
+When you create an account, input content, contact us directly, or otherwise use the Platform, you may provide some or all of the following information:
+Your profile information.You give us information when you register on the Platform, including your Email address or Google account.
+Your profile information.
+Your input.When you use our Platform, we may collect your text input, prompt or feedback that you provide to our model and Platform.
+Your input.
+Your payment order information. When you use paid services for prepayment, we collect your payment order and transaction information to provide services such as order placement, payment, customer service, and after-sales support.
+Your payment order information
+Automatically Collected Information
+Automatically Collected Information
+We automatically collect certain information from you when you use the Platform, including internet or other network activity information such as your IP address, unique device identifiers, and cookies.
+We automatically collect certain information from you when you use the Platform, including internet or other network activity information such as your IP address, unique device identifiers, and cookies.
+Usage Information. We collect information regarding your use of the Platform, such as the features you use and the actions you take.
+Usage Information
+Device Information. We collect certain information about the device you use to access the Platform, such as your IP address, unique device identifiers (device ID), network type and connections, mobile or device model, device manufacturer, application version number, operating system, device resolution, and system language and region.
+Device Information
+Cookies. We and our service providers and business partners may use cookies and other similar technologies (e.g., web beacons, flash cookies, etc.) (“Cookies”) to automatically collect information, measure and analyze how you use the Platform, enhance your experience using the Platform, and improve the Platform. Cookies enable the Platform to provide certain features and functionality. Web beacons are very small images or small pieces of data embedded in images, also known as “pixel tags” or “clear GIFs,” that can recognize Cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. To learn how to disable certain Cookies, see the “Your Choices” section below.
+Cookies
+Information from Other Sources
+We may receive the information described in this Privacy Policy from other sources, such as:
+When you sign-up or log-in to the Platform using other services such as Apple or Google, we collect information from the service, such as access token.
+How We Use Your Information
+How We Use Your Information
+We use your information to promote the safety and security of the Platform, including by scanning, analyzing, and reviewing content, messages and associated metadata for violations of our Terms of Service, Acceptable Use Policy, or other conditions and policies. We also use it to operate, provide, develop, and improve the Platform, including for the following purposes.
+We use your information to promote the safety and security of the Platform, including by scanning, analyzing, and reviewing content, messages and associated metadata for violations of our Terms of Service, Acceptable Use Policy, or other conditions and policies. We also use it to operate, provide, develop, and improve the Platform, including for the following purposes.
+Provide, improve, promote and develop the Platform;
+Provide you with user support and to otherwise communicate with you;
+Detect abuse, fraud and illegal activity on the Platform;
+Promote the safety and security of the Platform;
+Enforce our Terms, Guidelines, and other policies that apply to you and to protect the safety and well-being of our community;
+Carry out data analysis, research and investigations, and test the Platform to ensure its stability and security;
+Comply with any applicable laws, regulations, codes of practice, guidelines, or rules, or to assist in law enforcement and investigations conducted by any governmental and/or regulatory authority;
+Understand how you use the Platform;
+Administer the Platform, including troubleshooting;
+For any other purposes for which you have provided the information, with your consent or at your direction.
+How We Share Your Information
+Our Corporate Group
+Our Corporate Group
+The Platform is supported by certain entities within our corporate group. These entities process Information You Provide, and Automatically Collected Information for us, as necessary to provide certain functions, such as storage, content delivery, security, research and development, analytics, customer and technical support, and content moderation.
+In Connection with a Sale, Merger, or Other Business Transfer
+In Connection with a Sale, Merger, or Other Business Transfer
+We may share the categories of personal information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sales, or in the unlikely event of bankruptcy.
+For Legal Reasons
+For Legal Reasons
+We may access, preserve, and share the information described in "What Information We Collect" with law enforcement agencies, public authorities, copyright holders, or other third parties if we have good faith belief that it is necessary to:
+comply with applicable law, legal process or government requests, as consistent with internationally recognised standards,
+protect the rights, property, and safety of our users, copyright holders, and others, including to protect life or prevent imminent bodily harm. For example, we may provide information (such as your IP address) to law enforcement in the event of an emergency where someone's life or safety is at risk,
+investigate potential violations of and enforce our Terms, Guidelines, or any other applicable terms, policies, or standards, or
+detect, investigate, prevent, or address misleading activity, copyright infringement, or other illegal activity.
+With Your Consent
+With Your Consent
+Depending on where you live, we may share personal information with the proper authorization or to provide the Platform you have requested or authorized. For example, if you choose to log in to our Platform using a social network account, or share information from our Platform to a social media service, we will share that information with those platforms.
+Third-party content. The Platform may contain links to policies, functionality, or content maintained by third parties who we do not control. We are not responsible for, and make no representations regarding, such policies, functionality, or content or any other practices or operations of such third parties.
+Third-party content
+Your Rights
+Depending on where you live, you may have certain rights with respect to your personal information, such as a right to know how we collect and use your personal information. You may also have a right to access, change, oppose, request a copy of your authorization, file complaints before the competent authorities, withdraw your consent, or limit our collection and use of your personal information as well as to request that we delete it, and potentially others. In certain circumstances, you can also ask us to provide additional information about our collection and use of your personal information. Please note that your exercise of certain rights may impact your ability to use some or all ofDeepSeek Open Platform's features and functionalities.
+DeepSeek Open Platform
+If you have registered for an account, you may also access, review, and update certain personal information that you have provided to us by logging into your account and using available features and functionalities.
+Please contact us by using the contact information provided in the “Contact Us” section if you would like to exercise any of your rights. We will respond to your request consistent with applicable law and subject to proper verification.
+Your Choices
+You can control and access some of your personal information directly through settings. For example, you can manage your API key. Should you choose to do so, you may also delete your entire account via your settings.
+You may also be able to control some of the information we collect about you through your device browser settings to refuse or disable Cookies. Because each browser is different, please consult the instructions provided by your browser. Please note that you may need to take additional steps to refuse or disable certain types of Cookies. In addition, your choice to disable Cookies is specific to the particular browser or device that you are using when you disable Cookies, so you may need to separately disable Cookies for each type of browser or device. If you choose to refuse, disable, or delete Cookies, some of the functionality of the Platform may no longer be available to you. Without this information, we are not able to provide you with all of the requested services.
+Data Security
+Security of your information is important to us. We maintain appropriate technical, administrative, and physical security measures that are designed to protect your information from unauthorized access, theft, disclosure, modification, or loss. We regularly review our security measures to consider available new technology and methods.
+Data Retention
+We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy. We also retain information when necessary to comply with contractual and legal obligations, when we have a legitimate business interest to do so (such as improving and developing the Platform, and enhancing its safety, security and stability), and for the exercise or defense of legal claims.
+The retention periods will be different depending on the type of information and the purposes for which we use the information. For example, when we process your information to provide you with the Platform, we keep this information for as long as you have an account. This information includes your Profile Information and User Content. If you violate our Guidelines or Terms, we may remove your Profile Information and/or User Content from public view immediately but keep your information as necessary to process the violation.
+International Data Transfers
+The personal information we collect from you may be stored on a server located outside of the country where you live. We store the information we collect in secure servers located in the People's Republic of China .
+Where we transfer any personal information out of the country where you live, including for one or more of the purposes as set out in this Policy, we will do so in accordance with the requirements of applicable data protection laws.
+Information relating to childrenunder 18
+The Platform is not aimed at children under the age of 18 (hereinafter referred to as "Minors). If you are a minor over the age of 14, you should read and agree to this privacy policy together with your parents or other guardians before using our products and related services.
+We do not actively collect personal information from minors under the age of 14 (children) . If we notice or receive feedback that we have collected a child's personal information without prior consent from a guardian, we will attempt to delete the information as soon as possible. If you believe that we processed personal information about or collected from a child under the age of 14, please contact us atservice@deepseek.com.
+Privacy Policy Updates
+We may update this Privacy Policy from time to time as required by law. When we update the Privacy Policy, we will notify you by updating the “Last Updated” date at the top of the new Privacy Policy, posting the new Privacy Policy, or by providing any other notice required by applicable law. We recommend that you review the Privacy Policy each time you visit the Platform to stay informed of our privacy practices.
+Contact Us
+Questions, comments and requests regarding this policy should be addressed toservice@deepseek.comor "Contact us" column on the website.
